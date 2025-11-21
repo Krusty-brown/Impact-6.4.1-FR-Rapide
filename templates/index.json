@@ -1,1 +1,1177 @@
-{"sections":{"image_with_text_overlay_FhdizH":{"type":"image-with-text-overlay","blocks":{"heading_BecCNN":{"type":"heading","settings":{"text":"","heading_tag":"h3"}},"richtext_nJAUFy":{"type":"richtext","settings":{"content":""}}},"block_order":["heading_BecCNN","richtext_nJAUFy"],"settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","mobile_text_position":"place-self-start-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#252627","overlay_color":"#000000","overlay_opacity":0}},"logo_list_c3ppmd":{"type":"logo-list","blocks":{"logo_NaYWy4":{"type":"logo","settings":{"logo_width":120,"link":""}}},"block_order":["logo_NaYWy4"],"custom_css":[".section-full {padding-top: 0px; padding-bottom: 5px;}"],"name":"Magazines","settings":{"full_width":true,"stack_mobile":true,"title":"","content":"","text_alignment":"center","items_per_row":5,"background":"#ffffff","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","logo_item_background":"#ffffff","logo_item_border":"#ffffff"}},"image_with_text_overlay_EtGYza":{"type":"image-with-text-overlay","name":"Images avec benefices","settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"rich_text_ikwdf3":{"type":"rich-text","blocks":{"heading_kgNeXK":{"type":"heading","settings":{"text":"Une technologie innovante et indolore","heading_tag":"h2","text_color":"","gradient":""}}},"block_order":["heading_kgNeXK"],"name":"Rich text","settings":{"full_width":true,"content_width":"small","text_position":"center","background":"#ffffff","background_gradient":"","text_color":""}},"image_with_text_overlay_3mLjrK":{"type":"image-with-text-overlay","name":"Image with text overlay","settings":{"full_width":false,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"rich_text_WRccK8":{"type":"rich-text","blocks":{"heading_MCP6fM":{"type":"heading","settings":{"text":"Plus de 7000 femmes l'ont adopté, et vous?","heading_tag":"h2","text_color":"","gradient":""}}},"block_order":["heading_MCP6fM"],"custom_css":[".section-full {padding-top: 20px; padding-bottom: 5px;}"],"name":"Rich text","settings":{"full_width":true,"content_width":"small","text_position":"center","background":"#ffffff","background_gradient":"","text_color":""}},"image_with_text_overlay_T4PQMt":{"type":"image-with-text-overlay","custom_css":[".section-full {padding-top: 0px; padding-bottom: 0px;}"],"name":"Trustpilot","settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"multi_column_tzwVE8":{"type":"multi-column","blocks":{"item_htEXrq":{"type":"item","disabled":true,"settings":{"column_size":"3","title":"Sarah M.","heading_tag":"h4","content":"<p>Wow... Cet appareil électrique anti-callosités fonctionne vraiment très bien ! Je ne m'attendais pas à des résultats aussi spectaculaires. La différence avant\/après est saisissante, mes talons étaient complètement abîmés et maintenant ils sont parfaitement lisses !<\/p>","link_url":"","link_text":"","link_style":"link"}}},"block_order":["item_htEXrq"],"custom_css":[".section-full {padding-top: 0px;}"],"name":"Avis client avec photo","settings":{"full_width":true,"stack_on_mobile":false,"gap":"medium","text_alignment":"center","subheading":"","title":"","content":"","background":"#ffffff","background_gradient":"","text_color":""}},"custom_liquid_WVKqBW":{"type":"custom-liquid","disabled":true,"name":"Over 4M Tiktok gris","settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge<\/title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 35px;\n    margin: 2px 0; \/* Üst ve alt 2px margin ekler *\/\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n<\/style>\n<\/head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https:\/\/www.svgrepo.com\/show\/473806\/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Over 4M Views on TikTok<\/span>\n<\/div>\n\n<\/body>\n<\/html>","background":"","background_gradient":"","text_color":""}},"rich_text_Khgqwn":{"type":"rich-text","blocks":{"heading_4xyhRk":{"type":"heading","settings":{"text":"Des résultats concrets","heading_tag":"h2","text_color":"","gradient":""}}},"block_order":["heading_4xyhRk"],"disabled":true,"name":"Rich text","settings":{"full_width":true,"content_width":"small","text_position":"center","background":"","background_gradient":"","text_color":""}},"featured_product_jWDqw9":{"type":"featured-product","blocks":{"liquid_RaqCci":{"type":"liquid","name":"Avis trustpilot","settings":{"liquid":"<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #00DA8E;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n<\/style>\n<\/head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http:\/\/w3.org\/2000\/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"><\/path>\n      <\/svg>\n    <\/span>\n  <\/span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 | Avis\n  <\/span>\n<\/div>\n\n<\/body>\n<\/html>"}},"text_bP7Yxj":{"type":"text","settings":{"text":"<h3>VelvetCare -  Transforme et Sublime Vos Pieds<\/h3>"}},"title_qpdrVy":{"type":"title","disabled":true,"settings":{"heading_tag":"h3"}},"text_JCFB7i":{"type":"text","disabled":true,"settings":{"text":"<p>La technologie micro-vibrations de VelvetCare <strong>transforme<\/strong> vos pieds <strong>abîmés<\/strong> en <strong>pieds de rêve<\/strong>. Retrouvez confiance en <strong>moins de 5 minutes<\/strong> et portez enfin vos sandales sans complexe 🥰.<\/p>"}},"liquid_jUjxDL":{"type":"liquid","disabled":true,"settings":{"liquid":"<div class=\"benefits-list\">\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Résultats visibles dès la 1ère utilisation<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Des pieds doux en toute occasion<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Économise 600€\/an<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Réutilisable à vie<\/span>\n  <\/div>\n<\/div>\n\n<style>\n.benefits-list {\n  display: flex;\n  flex-direction: column;\n  gap: 2px;\n  margin: 10px 0;\n}\n\n.benefit-item {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  padding: 2px 0;\n}\n\n.check-icon {\n  width: 18px;\n  height: 18px;\n  flex-shrink: 0;\n}\n\n.benefit-text {\n  font-family: 'Poppins', Arial, sans-serif;\n  font-size: 14px;\n  font-weight: 400;\n  color: #2C2C2C;\n  line-height: 1.2;\n}\n\n@media (max-width: 768px) {\n  .benefit-text {\n    font-size: 13px;\n  }\n  \n  .check-icon {\n    width: 16px;\n    height: 16px;\n  }\n  \n  .benefits-list {\n    gap: 1px;\n  }\n}\n<\/style>"}},"separator_VwBkN4":{"type":"separator","disabled":true,"settings":{}},"badges_LY9afh":{"type":"badges","disabled":true,"settings":{}},"liquid_JhqBmw":{"type":"liquid","name":"3 badges ✔️ arriere plan gris","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Product Features<\/title>\n    <style>\n        :root {\n            --text-color: #333;\n            --hover-bg-color: #f1f1f1;\n            --highlight-color: #000;\n            --icon-color: #007BFF;\n            --transition-duration: 0.3s;\n            --font-family: 'Helvetica Neue', Arial, sans-serif;\n        }\n\n        body.bdy-a123 {\n            font-family: var(--font-family);\n            display: flex;\n            justify-content: center;\n            align-items: flex-start;\n            height: 100vh;\n            margin: 0;\n            background: #f0f0f0;\n            padding: 20px;\n        }\n\n        .container-x987 {\n            width: 100%;\n            max-width: 400px;\n            display: flex;\n            flex-direction: column;\n            gap: 10px;\n        }\n\n        .item-z456 {\n            display: flex;\n            align-items: center;\n            padding: 5px 10px;\n            border-radius: 8px;\n            transition: background-color var(--transition-duration) ease, transform var(--transition-duration) ease;\n            cursor: default;\n            background: var(--hover-bg-color);\n        }\n\n        .item-z456:hover {\n            background-color: #e0e0e0;\n            transform: translateX(10px);\n        }\n\n        .icon-w321 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n            transition: transform var(--transition-duration) ease;\n            fill: var(--icon-color);\n        }\n\n        .item-z456:hover .icon-w321 {\n            transform: rotate(360deg);\n        }\n\n        .text-v654 {\n            font-size: 14px;\n            color: var(--text-color);\n            transition: color var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .text-v654 {\n            color: var(--highlight-color);\n        }\n\n        @media (max-width: 600px) {\n            .text-v654 {\n                font-size: 12px;\n            }\n\n            .icon-w321 {\n                width: 20px;\n                height: 20px;\n                margin-right: 8px;\n            }\n        }\n    <\/style>\n<\/head>\n<body class=\"bdy-a123\">\n    <div class=\"container-x987\">\n        <div class=\"item-z456\">\n            <svg viewBox=\"0 0 24 24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" fill=\"#000000\" class=\"icon-w321\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"><\/g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/g><g id=\"SVGRepo_iconCarrier\"> <defs> <path id=\"check-a\" d=\"M4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L1.90917969,5.46118164 C1.5186554,5.85170593 0.885490417,5.85170593 0.494966125,5.46118164 C0.104441833,5.07065735 0.104441833,4.43749237 0.494966125,4.04696808 L4.29289322,0.292893219 Z\"><\/path> <path id=\"check-c\" d=\"M10.7071068,13.2928932 C11.0976311,13.6834175 11.0976311,14.3165825 10.7071068,14.7071068 C10.3165825,15.0976311 9.68341751,15.0976311 9.29289322,14.7071068 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 L4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L2.41421356,5 L10.7071068,13.2928932 Z\"><\/path> <\/defs> <g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(-90 11 7)\"> <g transform=\"translate(1 1)\"> <mask id=\"check-b\" fill=\"#ffffff\"> <use xlink:href=\"#check-a\"><\/use> <\/mask> <use fill=\"#D8D8D8\" fill-rule=\"nonzero\" xlink:href=\"#check-a\"><\/use> <g fill=\"#9effb1\" mask=\"url(#check-b)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-7 -5)\"><\/rect> <\/g> <\/g> <mask id=\"check-d\" fill=\"#ffffff\"> <use xlink:href=\"#check-c\"><\/use> <\/mask> <use fill=\"#000000\" fill-rule=\"nonzero\" xlink:href=\"#check-c\"><\/use> <g fill=\"#9458ff\" mask=\"url(#check-d)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-6 -4)\"><\/rect> <\/g> <\/g> <\/g><\/svg>\n            <div class=\"text-v654\">Easily Changeable 6 Different Heads<\/div>\n        <\/div>\n        <div class=\"item-z456\">\n            <svg viewBox=\"0 0 24 24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" fill=\"#000000\" class=\"icon-w321\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"><\/g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/g><g id=\"SVGRepo_iconCarrier\"> <defs> <path id=\"check-a\" d=\"M4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L1.90917969,5.46118164 C1.5186554,5.85170593 0.885490417,5.85170593 0.494966125,5.46118164 C0.104441833,5.07065735 0.104441833,4.43749237 0.494966125,4.04696808 L4.29289322,0.292893219 Z\"><\/path> <path id=\"check-c\" d=\"M10.7071068,13.2928932 C11.0976311,13.6834175 11.0976311,14.3165825 10.7071068,14.7071068 C10.3165825,15.0976311 9.68341751,15.0976311 9.29289322,14.7071068 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 L4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L2.41421356,5 L10.7071068,13.2928932 Z\"><\/path> <\/defs> <g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(-90 11 7)\"> <g transform=\"translate(1 1)\"> <mask id=\"check-b\" fill=\"#ffffff\"> <use xlink:href=\"#check-a\"><\/use> <\/mask> <use fill=\"#D8D8D8\" fill-rule=\"nonzero\" xlink:href=\"#check-a\"><\/use> <g fill=\"#9effb1\" mask=\"url(#check-b)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-7 -5)\"><\/rect> <\/g> <\/g> <mask id=\"check-d\" fill=\"#ffffff\"> <use xlink:href=\"#check-c\"><\/use> <\/mask> <use fill=\"#000000\" fill-rule=\"nonzero\" xlink:href=\"#check-c\"><\/use> <g fill=\"#9458ff\" mask=\"url(#check-d)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-6 -4)\"><\/rect> <\/g> <\/g> <\/g><\/svg>\n            <div class=\"text-v654\">Waterproof Charging Unit<\/div>\n        <\/div>\n        <div class=\"item-z456\">\n            <svg viewBox=\"0 0 24 24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" fill=\"#000000\" class=\"icon-w321\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"><\/g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/g><g id=\"SVGRepo_iconCarrier\"> <defs> <path id=\"check-a\" d=\"M4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L1.90917969,5.46118164 C1.5186554,5.85170593 0.885490417,5.85170593 0.494966125,5.46118164 C0.104441833,5.07065735 0.104441833,4.43749237 0.494966125,4.04696808 L4.29289322,0.292893219 Z\"><\/path> <path id=\"check-c\" d=\"M10.7071068,13.2928932 C11.0976311,13.6834175 11.0976311,14.3165825 10.7071068,14.7071068 C10.3165825,15.0976311 9.68341751,15.0976311 9.29289322,14.7071068 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 L4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L2.41421356,5 L10.7071068,13.2928932 Z\"><\/path> <\/defs> <g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(-90 11 7)\"> <g transform=\"translate(1 1)\"> <mask id=\"check-b\" fill=\"#ffffff\"> <use xlink:href=\"#check-a\"><\/use> <\/mask> <use fill=\"#D8D8D8\" fill-rule=\"nonzero\" xlink:href=\"#check-a\"><\/use> <g fill=\"#9effb1\" mask=\"url(#check-b)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-7 -5)\"><\/rect> <\/g> <\/g> <mask id=\"check-d\" fill=\"#ffffff\"> <use xlink:href=\"#check-c\"><\/use> <\/mask> <use fill=\"#000000\" fill-rule=\"nonzero\" xlink:href=\"#check-c\"><\/use> <g fill=\"#9458ff\" mask=\"url(#check-d)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-6 -4)\"><\/rect> <\/g> <\/g> <\/g><\/svg>\n            <div class=\"text-v654\">3.5 hours continuous operation time<\/div>\n        <\/div>\n    <\/div>\n<\/body>\n<\/html>"}},"liquid_CQMbXr":{"type":"liquid","name":"3 badges ☑️ arriere plan gris","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Features List<\/title>\n    <style>\n        @keyframes borderAnimation {\n            0% {\n                border-color: #e8e8e8;\n                box-shadow: 0 0 10px rgba(232, 232, 232, 0.5);\n            }\n            50% {\n                border-color: #dcdcdc;\n                box-shadow: 0 0 20px rgba(220, 220, 220, 0.7);\n            }\n            100% {\n                border-color: #e8e8e8;\n                box-shadow: 0 0 10px rgba(232, 232, 232, 0.5);\n            }\n        }\n\n        body.unique-body-xyz123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f0f0f0; \/* Açık gri *\/\n            padding: 4px 0; \/* Yukarı ve aşağı 4px boşluk *\/\n        }\n\n        .features-container-xyz123 {\n            background-color: #f8f9fa; \/* Bir ton daha açık gri *\/\n            border-radius: 12px;\n            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\n            padding: 20px;\n            max-width: 400px;\n            width: 100%;\n            border: 2px solid #e8e8e8; \/* Bir ton daha açık border rengi *\/\n            animation: borderAnimation 3s infinite;\n        }\n\n        .feature-item-xyz123 {\n            display: flex;\n            align-items: center;\n            margin-bottom: 15px;\n        }\n\n        .feature-item-xyz123:last-child {\n            margin-bottom: 0;\n        }\n\n        .check-icon-xyz123 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n        }\n\n        .feature-text-xyz123 {\n            font-size: 14px;\n            color: #333;\n        }\n    <\/style>\n<\/head>\n<body class=\"unique-body-xyz123\">\n    <div class=\"features-container-xyz123\">\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https:\/\/www.svgrepo.com\/show\/507980\/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Easily Changeable 6 Different Heads<\/div>\n        <\/div>\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https:\/\/www.svgrepo.com\/show\/507980\/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Waterproof Charging Unit<\/div>\n        <\/div>\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https:\/\/www.svgrepo.com\/show\/507980\/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">3.5 hours continuous operation time<\/div>\n        <\/div>\n    <\/div>\n<\/body>\n<\/html>"}},"liquid_kRHFp8":{"type":"liquid","name":"3 bagdes ☑️ sans arriere plan","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Product Features<\/title>\n    <style>\n        :root {\n            --text-color: #333;\n            --hover-bg-color: #f1f1f1;\n            --highlight-color: #000;\n            --transition-duration: 0.3s;\n            --font-family: 'Helvetica Neue', Arial, sans-serif;\n        }\n\n        body.bdy-a123 {\n            font-family: var(--font-family);\n            display: flex;\n            justify-content: flex-start;\n            align-items: flex-start;\n            height: 100vh;\n            margin: 0;\n            background: none;\n            padding: 20px;\n        }\n\n        .container-x987 {\n            width: 100%;\n            max-width: 600px;\n            display: flex;\n            flex-direction: column;\n            gap: 5px; \/* Boşlukları azaltmak için gap değeri *\/\n        }\n\n        .item-z456 {\n            display: flex;\n            align-items: center;\n            padding: 5px 0; \/* Dikey boşluğu azaltmak için padding değeri *\/\n            border-radius: 8px;\n            transition: background-color var(--transition-duration) ease, transform var(--transition-duration) ease;\n            cursor: default; \/* İmlecin değişmesini engellemek için *\/\n        }\n\n        .item-z456:hover {\n            background-color: var(--hover-bg-color);\n            transform: translateX(10px);\n        }\n\n        .icon-w321 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n            transition: filter var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .icon-w321 {\n            filter: brightness(0) invert(0);\n        }\n\n        .text-v654 {\n            font-size: 16px;\n            color: var(--text-color);\n            transition: color var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .text-v654 {\n            color: var(--highlight-color);\n        }\n\n        @media (max-width: 600px) {\n            .text-v654 {\n                font-size: 14px;\n            }\n        }\n    <\/style>\n<\/head>\n<body class=\"bdy-a123\">\n    <div class=\"container-x987\">\n        <div class=\"item-z456\">\n            <img src=\"https:\/\/www.svgrepo.com\/show\/507980\/check-badge.svg\" alt=\"Check Icon\" class=\"icon-w321\">\n            <div class=\"text-v654\">Easily Changeable 6 Different Heads<\/div>\n        <\/div>\n        <div class=\"item-z456\">\n            <img src=\"https:\/\/www.svgrepo.com\/show\/507980\/check-badge.svg\" alt=\"Check Icon\" class=\"icon-w321\">\n            <div class=\"text-v654\">Waterproof Charging Unit<\/div>\n        <\/div>\n        <div class=\"item-z456\">\n            <img src=\"https:\/\/www.svgrepo.com\/show\/507980\/check-badge.svg\" alt=\"Check Icon\" class=\"icon-w321\">\n            <div class=\"text-v654\">3.5 hours continuous operation time<\/div>\n        <\/div>\n    <\/div>\n<\/body>\n<\/html>"}},"liquid_WUzM4T":{"type":"liquid","name":"3 badges simples","disabled":true,"settings":{"liquid":"<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Affinez votre silhouette plus rapidement<\/span>\n<\/li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Réduisez visiblement la cellulite<\/span>\n<\/li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Tonifiez et raffermissez vos jambes et fesses<\/span>\n<\/li>"}},"liquid_9QUMDG":{"type":"liquid","name":"Badges","disabled":true,"settings":{"liquid":"<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Triple bille froide = application précise + massage stimulant + absorption maximale.<\/span>\n<\/li> \n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Favorise une repousse homogène<\/span>\n<\/li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Cuir chevelu plus sain chaque jour<\/span>\n<\/li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Stoppe la chute dès 2 semaines<\/span>\n<\/li>"}},"price_nwTKD6":{"type":"price","disabled":true,"settings":{"show_taxes_notice":false}},"liquid_EjwYPA":{"type":"liquid","name":"Badges mauves","settings":{"liquid":"<div class=\"benefits-list\">\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Résultats visibles dès la 1ère utilisation<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Une fois acheté utilisable à vie !<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Économisez 600€\/an de pédicures<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Chaque VelvetCare inclut 60 disques de rechange<\/span>\n  <\/div>\n\n<\/div>\n\n<style>\n.benefits-list {\n  display: flex;\n  flex-direction: column;\n  gap: 8px;\n  margin: 15px 0;\n}\n\n.benefit-item {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.check-icon {\n  width: 20px;\n  height: 20px;\n  flex-shrink: 0;\n}\n\n.benefit-text {\n  font-family: 'Poppins', Arial, sans-serif;\n  font-size: 15px;\n  font-weight: 400;\n  color: #2C2C2C;\n  line-height: 1.3;\n}\n\n@media (max-width: 768px) {\n  .benefit-text {\n    font-size: 14px;\n  }\n  \n  .check-icon {\n    width: 18px;\n    height: 18px;\n  }\n  \n  .benefits-list {\n    gap: 6px;\n  }\n}\n<\/style>"}},"liquid_Y4JQ7A":{"type":"liquid","disabled":true,"settings":{"liquid":"<div class=\"benefits-list\">\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Résultats visibles dès la 1ère utilisation<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Des pieds doux en toute occasion<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Économise 600€\/an<\/span>\n  <\/div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"\/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\/>\n    <\/svg>\n    <span class=\"benefit-text\">Réutilisable à vie<\/span>\n  <\/div>\n<\/div>\n\n<style>\n.benefits-list {\n  display: flex;\n  flex-direction: column;\n  gap: 16px;\n  margin: 20px 0;\n}\n\n.benefit-item {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.check-icon {\n  width: 24px;\n  height: 24px;\n  flex-shrink: 0;\n}\n\n.benefit-text {\n  font-family: 'Poppins', Arial, sans-serif;\n  font-size: 16px;\n  font-weight: 400;\n  color: #2C2C2C;\n  line-height: 1.4;\n}\n\n@media (max-width: 768px) {\n  .benefit-text {\n    font-size: 14px;\n  }\n  \n  .check-icon {\n    width: 20px;\n    height: 20px;\n  }\n}\n<\/style>"}},"image_DFMKKc":{"type":"image","name":"Canva Happy customers","disabled":true,"settings":{"alignment":"center","max_width":500}},"liquid_mgWEc8":{"type":"liquid","name":"4,5 Etoiles Avis Trustpilot ","disabled":true,"settings":{"liquid":"<title>Trustpilot Stars<\/title>\n<\/head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.3<\/span>\n        <img src=\"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRqwTrpqlDxrYZ0pXL4aXXL4azowSSvjMZM2g&s\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(3000 notes)<\/span>\n    <\/a>"}},"liquid_6Yj4Rm":{"type":"liquid","name":"5 Etoiles avis Trustpilot ","disabled":true,"settings":{"liquid":"<title>Trustpilot Stars<\/title>\n<\/head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7<\/span>\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0647\/2148\/6072\/files\/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(878 notes)<\/span>\n    <\/a>"}},"liquid_rnc9DY":{"type":"liquid","name":"Quality proof FR","disabled":true,"settings":{"liquid":"<div style=\"margin-top: 10px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/ASSURANCE_CASSE_VALABLE_1_AN_3.png?v=1743413838\" style=\"width: 100%; margin-bottom: -5px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0933\/4190\/9318\/files\/TEMPLATE_BLOC_CONTACT_1.png?v=1743413838\" style=\"width: 100%;\">\n<\/div>\n<div id='ss-product-videos2'>\n<\/div>"}},"liquid_xPTrhk":{"type":"liquid","disabled":true,"settings":{"liquid":"<!-- Alerte Stock - VelvetCare -->\n<div class=\"stock-alert-banner\">\n  <div class=\"stock-alert-content\">\n    <p class=\"stock-alert-title\">\n      <strong>MISE À JOUR :<\/strong> En raison de la forte demande pendant notre offre d'été, les stocks sont limités.\n    <\/p>\n    <p class=\"stock-alert-subtitle\">\n      Notre offre est valable dans la limite des stocks disponibles.\n    <\/p>\n  <\/div>\n<\/div>\n\n<style>\n  .stock-alert-banner {\n    background-color: #fce4ec;\n    border: 1px solid #f8bbd9;\n    border-radius: 8px;\n    padding: 16px 20px;\n    margin: 20px 0;\n    box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n  }\n  \n  .stock-alert-content {\n    text-align: center;\n    max-width: 800px;\n    margin: 0 auto;\n  }\n  \n  .stock-alert-title {\n    font-size: 16px;\n    font-weight: 600;\n    color: #ad1457;\n    margin: 0 0 8px 0;\n    line-height: 1.4;\n  }\n  \n  .stock-alert-subtitle {\n    font-size: 14px;\n    font-weight: 400;\n    color: #8e24aa;\n    margin: 0;\n    line-height: 1.4;\n  }\n  \n  \/* Responsive *\/\n  @media (max-width: 768px) {\n    .stock-alert-banner {\n      padding: 12px 16px;\n      margin: 15px 10px;\n    }\n    \n    .stock-alert-title {\n      font-size: 15px;\n    }\n    \n    .stock-alert-subtitle {\n      font-size: 13px;\n    }\n  }\n  \n  \/* Animation subtile *\/\n  .stock-alert-banner {\n    animation: fadeIn 0.5s ease-in;\n  }\n  \n  @keyframes fadeIn {\n    from { opacity: 0; transform: translateY(-10px); }\n    to { opacity: 1; transform: translateY(0); }\n  }\n<\/style>"}},"liquid_Hx8VaY":{"type":"liquid","name":"Offre rupture de stock","settings":{"liquid":"<div style=\"background-color: #fdecea; padding: 10px 15px; border-radius: 8px; text-align: left; margin-bottom: 15px;\">\n  <p style=\"margin: 0; font-size: 12px; line-height: 1.5; color: #333;\">\n    <strong>MISE À JOUR :<\/strong> En raison de la forte demande pendant notre offre d'été, les stocks sont limités.<br>\n    Notre offre est valable dans la limite des stocks disponibles.\n  <\/p>\n<\/div>"}},"liquid_qKXULc":{"type":"liquid","name":"Code urgence arriere plan rouge","settings":{"liquid":"<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; \/* Display as inline-block *\/\n    vertical-align: middle; \/* Align vertically to middle *\/\n    font-size: 10px; \/* Set font size *\/\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; \/* 6px vertical, 10px horizontal *\/\n    border-radius: 8px; \/* Rounded corners *\/\n    display: inline-block; \/* Display as inline-block *\/\n    text-align: center; \/* Center align the content *\/\n    margin: 0 auto; \/* Horizontally center the red-div *\/\n  }\n\n  .text {\n    display: inline-block; \/* Display as inline-block *\/\n    vertical-align: middle; \/* Align vertically to middle *\/\n    margin-left: 10px; \/* Add some space between the dot and the text *\/\n    color: #AD0000; \/* Text color *\/\n    font-weight: 500; \/* Medium font weight *\/\n    font-size: 12px; \/* Set font size *\/\n    text-align: justify; \/* Justify the text to the center *\/\n  }\n<\/style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;<\/div>\n  <div class=\"text\">DERNIÈRES PIÈCES - Stock critique !<\/div>\n<\/div>"}},"image_t3GLgX":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Trust_badges_10_bc71c6c3-b749-4185-9e15-b401bb82d1a0.png","alignment":"center","max_width":500}},"kaching_bundles_app_block_4zzkRB":{"type":"shopify:\/\/apps\/kaching-bundles\/blocks\/app-block\/6c637362-a106-4a32-94ac-94dcfd68cdb8","settings":{"product":"{{section.settings.product}}"}},"rating_gAVpEc":{"type":"rating","disabled":true,"settings":{"show_empty":false}},"description_rQAcbR":{"type":"description","settings":{"icon":"none","icon_width":20,"collapse_content":false}},"variant_picker_cBGtc7":{"type":"variant_picker","disabled":true,"settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_style":"block","swatch_selector_style":"swatch","variant_image_options":"","size_chart_page":""}},"quantity_selector_PgDJaN":{"type":"quantity_selector","disabled":true,"settings":{}},"liquid_WfFHHc":{"type":"liquid","name":"Code urgence sans arriere plan","disabled":true,"settings":{"liquid":"<style>\n  .product__inventory {\n    padding-top: 10px; \/* Ajustement de l'espacement *\/\n    padding-bottom: 10px; \/* Ajustement de l'espacement *\/\n    color: #FF0000; \/* Couleur rouge *\/\n  }\n\n  \/* Animation de clignotement uniquement pour le bouton *\/\n  @keyframes blink {\n    0% { opacity: 1; }\n    50% { opacity: 0.4; }\n    100% { opacity: 1; }\n  }\n\n  .stock-indicator {\n    animation: blink 1s infinite;\n  }\n<\/style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n    <svg class=\"stock-indicator\" width=\"15\" height=\"15\" aria-hidden=\"true\">\n        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"><\/circle>\n        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"><\/circle>\n    <\/svg>  \n    Forte demande | Stock limité ! \n<\/p>"}},"liquid_gzRNpm":{"type":"liquid","name":"Money back + limited stock","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge<\/title>\n<style>\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; \/* Badge'ler arasındaki boşluk *\/\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; \/* Çok açık yeşil arka plan *\/\n  color: #004d00; \/* Koyu yeşil metin *\/\n  padding: 2px 4px; \/* Küçültülmüş padding *\/\n  border-radius: 3px; \/* Küçültülmüş yuvarlama *\/\n  font-size: 10px; \/* Küçültülmüş font boyutu *\/\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; \/* Açık kırmızı arka plan *\/\n  color: #b22222; \/* Koyu kırmızı metin *\/\n  padding: 2px 4px; \/* Küçültülmüş padding *\/\n  border-radius: 3px; \/* Küçültülmüş yuvarlama *\/\n  font-size: 10px; \/* Küçültülmüş font boyutu *\/\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; \/* Küçültülmüş ikon boyutu *\/\n  height: 12px; \/* Küçültülmüş ikon boyutu *\/\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; \/* Metinlerin tek satırda kalmasını sağlar *\/\n}\n\n@keyframes unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n<\/style>\n<\/head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-container-Abc456\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"\/>\n      <\/svg>\n      30-day money back guarantee.\n    <\/span>\n  <\/div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"\/>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"\/>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"\/>\n      <\/svg>\n      Limited stock available!\n    <\/span>\n  <\/div>\n<\/div>\n<\/body>\n<\/html>"}},"liquid_PDR9L9":{"type":"liquid","name":"Urgence + garantie","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Rotating Warnings<\/title>\n<style>\n  body.unique-body-Xyz789 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-warning-container-Abc123 {\n    position: relative;\n    width: 100%;\n    max-width: 600px; \/* Genişliği maksimum yap *\/\n    height: 40px; \/* Yüksekliği azalt *\/\n    overflow: hidden;\n  }\n\n  .unique-warning-Def456 {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    display: flex;\n    align-items: center;\n    border-radius: 10px;\n    color: #333;\n    font-size: 13px;\n    padding: 10px;\n    border: 1px solid #E2E2E2;\n    box-sizing: border-box;\n    opacity: 0;\n    transition: opacity 0.5s ease-in-out; \/* Animasyonun süresini ve şiddetini azalt *\/\n  }\n\n  .unique-warning-container-Abc123 .unique-warning-Def456:nth-child(1) {\n    animation: unique-showWarning-Ghi789 8s linear infinite 0s;\n  }\n\n  .unique-warning-container-Abc123 .unique-warning-Def456:nth-child(2) {\n    animation: unique-showWarning-Ghi789 8s linear infinite 4s;\n  }\n\n  @keyframes unique-showWarning-Ghi789 {\n    0%, 50% {\n      opacity: 1;\n    }\n    50.01%, 100% {\n      opacity: 0;\n    }\n  }\n\n  .unique-red-warning-Jkl012 {\n    background-color: #ffe6e6;\n  }\n\n  .unique-green-warning-Mno345 {\n    background-color: #f0fff0;\n  }\n\n  @keyframes unique-glowRed-Pqr678 {\n    0% { box-shadow: 0 0 3px 0 rgba(255, 0, 0, 0.7); }\n    50% { box-shadow: 0 0 8px 3px rgba(255, 0, 0, 0.5); }\n    100% { box-shadow: 0 0 3px 0 rgba(255, 0, 0, 0.7); }\n  }\n\n  .unique-circleRed-Stu901 {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #8b0000;\n    display: inline-block;\n    animation: unique-glowRed-Pqr678 1s infinite ease-in-out;\n  }\n\n  .unique-tickIcon-Vwx234 {\n    width: 14px;\n    height: 14px;\n    fill: #006400;\n    margin-right: 5px; \/* Metni ikona yaklaştır *\/\n  }\n<\/style>\n<\/head>\n<body class=\"unique-body-Xyz789\">\n\n<div class=\"unique-warning-container-Abc123\">\n  <div class=\"unique-warning-Def456 unique-red-warning-Jkl012\">\n    <div class=\"unique-circleRed-Stu901\"><\/div>\n    <span style=\"margin-left: 10px;\">Hurry up! Only a few items left!<\/span>\n  <\/div>\n  <div class=\"unique-warning-Def456 unique-green-warning-Mno345\">\n    <svg class=\"unique-tickIcon-Vwx234\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M9 16.2l-4.2-4.2-1.4 1.4 5.6 5.6 12-12-1.4-1.4z\"\/>\n    <\/svg>\n    <span>30-day money back guarantee, no questions.<\/span>\n  <\/div>\n<\/div>\n\n<\/body>\n<\/html>"}},"liquid_DLwPfG":{"type":"liquid","disabled":true,"settings":{"liquid":"<style>\n  .buy-urgency-box {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background: #f6f6f6;\n    border-left: 4px solid #00726f;\n    padding: 14px 18px;\n    margin-top: 20px;\n    border-radius: 8px;\n    font-size: 16px;\n    font-weight: 500;\n    color: #333;\n    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    text-align: center;\n  }\n\n  @media screen and (max-width: 600px) {\n    .buy-urgency-box {\n      font-size: 15px;\n      padding: 12px 16px;\n    }\n  }\n<\/style>\n\n<div class=\"buy-urgency-box\">\n  🔒 Ne laissez pas tomber vos cheveux un jour de plus.\n<\/div>"}},"liquid_f43YHT":{"type":"liquid","disabled":true,"settings":{"liquid":""}},"image_qbkqxc":{"type":"image","name":"Offre cadeau","settings":{"alignment":"center","max_width":500}},"buy_buttons_Frx3BE":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":true,"atc_button_background":"#f0c417","atc_button_text_color":"","payment_button_background":"rgba(0,0,0,0)","payment_button_text_color":"rgba(0,0,0,0)"}},"image_6eCi93":{"type":"image","name":"Moyens de paiement","disabled":true,"settings":{"alignment":"center","max_width":500}},"liquid_wjrkyR":{"type":"liquid","name":"Logo moyens de paiements","settings":{"liquid":"<div style=\"margin-top: -18px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0870\/2204\/3320\/files\/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 10px;\">"}},"image_L9CxLd":{"type":"image","name":"trust garantie 30j","settings":{"alignment":"center","max_width":500}},"image_3j8XkQ":{"type":"image","name":"Nom offre","settings":{"alignment":"center","max_width":500}},"liquid_GyiEVb":{"type":"liquid","name":"Bientot fin offre promotionelle","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>New Year Badge<\/title>\n<style>\n  body.unique-body-Xyz567 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-badge-container-Abc890 {\n    display: flex;\n    align-items: center;\n    background-color: #ffffe6; \/* Açık sarı arka plan *\/\n    border-radius: 12px;\n    padding: 8px 12px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    font-size: 14px;\n    color: #f0ad4e; \/* Turuncu metin rengi *\/\n    margin: 10px 0; \/* Aşağı ve yukarı boşluk ekler *\/\n    transition: transform 0.3s ease-in-out;\n  }\n\n  .unique-badge-container-Abc890:hover {\n    transform: translateY(-5px);\n  }\n\n  .unique-badge-icon-Def123 {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n    font-size: 20px;\n  }\n<\/style>\n<\/head>\n<body class=\"unique-body-Xyz567\">\n\n<div class=\"unique-badge-container-Abc890\">\n  <span class=\"unique-badge-icon-Def123\">⏳<\/span>\n  <span>Cette offre ne reviendra pas!<\/span>\n<\/div>\n\n<\/body>\n<\/html>"}},"image_QbKfxJ":{"type":"image","settings":{"alignment":"center","max_width":500}},"liquid_MrdkgN":{"type":"liquid","name":"Bientot offre promo Rouge","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Mother's Day Badge<\/title>\n<style>\n  body.unique-body-Nmn123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-badge-container-Klm456 {\n    display: flex;\n    align-items: center;\n    background-color: #ffe6e6; \/* Açık pembe arka plan *\/\n    border-radius: 12px;\n    padding: 8px 12px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    font-size: 14px;\n    color: #d9534f; \/* Koyu kırmızı metin rengi *\/\n    margin: 10px 0; \/* Aşağı ve yukarı boşluk ekler *\/\n    transition: transform 0.3s ease-in-out;\n  }\n\n  .unique-badge-container-Klm456:hover {\n    transform: translateY(-5px);\n  }\n\n  .unique-badge-icon-Xyz789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n    font-size: 20px;\n  }\n<\/style>\n<\/head>\n<body class=\"unique-body-Nmn123\">\n\n<div class=\"unique-badge-container-Klm456\">\n  <span class=\"unique-badge-icon-Xyz789\">👩‍👧‍👦<\/span>\n  <span>Rupture fréquente ⚠️!<\/span>\n<\/div>\n\n<\/body>\n<\/html>"}},"liquid_YTTrdP":{"type":"liquid","name":"30 day money back ","disabled":true,"settings":{"liquid":"<div class=\"custom-container-GxfzQpBzq\" style=\"background-color: #dfffd9; border-radius: 10px; padding: 10px; margin-top: 5px; margin-bottom: 5px; position: relative; overflow: hidden;\">\n  <div class=\"custom-circle-VzMgxLkRf\"><\/div>\n  <span class=\"custom-text-TnBcGxHnq\" style=\"margin-left: 10px; font-size: 16px;\">30-day money back Guarantee<\/span>\n<\/div>\n\n<style>\n  @keyframes glow-animation-CtGxjLrMq {\n    0% { box-shadow: 0 0 10px 0 rgba(0, 255, 0, 0.7); }\n    50% { box-shadow: 0 0 20px 10px rgba(0, 255, 0, 0.3); }\n    100% { box-shadow: 0 0 10px 0 rgba(0, 255, 0, 0.7); }\n  }\n\n  .custom-circle-VzMgxLkRf {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: green;\n    display: inline-block;\n    animation: glow-animation-CtGxjLrMq 2s infinite ease-in-out;\n  }\n\n  .custom-text-TnBcGxHnq {\n    margin-left: 10px;\n    font-size: 16px;\n  }\n<\/style>"}},"liquid_d9Hz8U":{"type":"liquid","name":"30 money back fond blanc","disabled":true,"settings":{"liquid":"<div class=\"unique-container-Abc123Xyz\" style=\"background-color: white; border: 1px solid #E2E2E2; border-radius: 10px; padding: 10px; margin-top: 5px; margin-bottom: 5px; position: relative; overflow: hidden;\">\n  <div class=\"unique-circle-Abc123Xyz\"><\/div>\n  <span class=\"unique-text-Abc123Xyz\" style=\"margin-left: 10px; font-size: 16px;\">30-day money back Guarantee<\/span>\n<\/div>\n\n<style>\n  @keyframes unique-glow-Abc123Xyz {\n    0% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n    50% { box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.5); }\n    100% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n  }\n\n  .unique-circle-Abc123Xyz {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #006400; \/* Daha koyu yeşil renk *\/\n    display: inline-block;\n    animation: unique-glow-Abc123Xyz 1s infinite ease-in-out; \/* 1s süreyle hızlandırılmış ışık saçma animasyonu *\/\n  }\n<\/style>"}},"liquid_Hte4bd":{"type":"liquid","name":"30 money back petit","disabled":true,"settings":{"liquid":"<div class=\"unique-container-Hgf543Tuv\" style=\"background-color: #f0fff0; border: 1px solid #E2E2E2; border-radius: 10px; padding: 10px; margin-top: 5px; margin-bottom: 5px; position: relative; overflow: hidden;\">\n  <div class=\"unique-circle-Hgf543Tuv\"><\/div>\n  <span class=\"unique-text-Hgf543Tuv\" style=\"margin-left: 10px; font-size: 13px;\">30-day money back guarantee, no questions.<\/span>\n<\/div>\n\n<style>\n  @keyframes unique-glow-Hgf543Tuv {\n    0% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n    50% { box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.5); }\n    100% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n  }\n\n  .unique-circle-Hgf543Tuv {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #006400; \/* Daha koyu yeşil renk *\/\n    display: inline-block;\n    animation: unique-glow-Hgf543Tuv 1s infinite ease-in-out; \/* 1s süreyle hızlandırılmış ışık saçma animasyonu *\/\n  }\n\n  .unique-text-Hgf543Tuv {\n    margin-left: 10px;\n    font-size: 13px;\n  }\n<\/style>"}},"liquid_em43FN":{"type":"liquid","name":"Avis clients","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Rating Widget<\/title>\n    <style>\n        body.unique-body-123 {\n            font-family: Arial, sans-serif;\n        }\n\n        .rating-widget-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .profile-images-123 {\n            display: flex;\n            align-items: center;\n            margin-right: 20px; \/* Resimlerden uzaklaştırmak için artırıldı *\/\n        }\n\n        .profile-images-123 img {\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            margin-right: -10px;\n            border: 2px solid white;\n        }\n\n        .rating-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .rating-text-123 {\n            font-size: 14px; \/* Font boyutu küçültüldü *\/\n        }\n\n        .highlight-123 {\n            color: #FF6347; \/* Tomato color for highlights *\/\n            font-weight: bold;\n        }\n    <\/style>\n<\/head>\n<body class=\"unique-body-123\">\n\n    <div class=\"rating-widget-123\">\n        <div class=\"profile-images-123\">\n            <img src=\"https:\/\/randomuser.me\/api\/portraits\/men\/1.jpg\" alt=\"Profile 1\">\n            <img src=\"https:\/\/randomuser.me\/api\/portraits\/women\/1.jpg\" alt=\"Profile 2\">\n            <img src=\"https:\/\/randomuser.me\/api\/portraits\/men\/2.jpg\" alt=\"Profile 3\">\n        <\/div>\n        <div class=\"rating-123\">\n            <span class=\"rating-text-123\">Rated <span class=\"highlight-123\">4.5\/5<\/span> based on <span class=\"highlight-123\">+50 Reviews<\/span><\/span>\n        <\/div>\n    <\/div>\n\n<\/body>\n<\/html>"}},"pickup_availability_8hEgYF":{"type":"pickup_availability","disabled":true,"settings":{}},"liquid_64FUeK":{"type":"liquid","settings":{"liquid":"<div id='ss-product-videos'><\/div>"}},"liquid_adAUEa":{"type":"liquid","disabled":true,"settings":{"liquid":"<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Témoignage Dr Lemoine<\/title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      margin: 0;\n      padding: 16px;\n      background-color: #f5f5f5;\n    }\n\n    .testimonial-container {\n      display: flex;\n      flex-direction: row;\n      align-items: flex-start;\n      border: 1px solid #e1e1e1; \/* Couleur du contour conforme à l'image *\/\n      padding: 16px;\n      border-radius: 12px;\n      background-color: #ffffff;\n      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);\n    }\n\n    .profile-image {\n      flex-shrink: 0;\n      margin-right: 12px;\n    }\n\n    .profile-image img {\n      border-radius: 50%;\n      width: 60px;\n      height: 60px;\n      object-fit: cover;\n    }\n\n    .testimonial-content {\n      flex: 1;\n    }\n\n    .stars-container {\n      margin-bottom: 6px;\n    }\n\n    .stars-image {\n      width: 90px;\n      height: auto;\n    }\n\n    .testimonial-text {\n      font-style: italic;\n      font-size: 14px;\n      color: #333;\n      margin: 8px 0;\n      line-height: 1.5;\n    }\n\n    .doctor-verification {\n      display: flex;\n      align-items: center;\n      margin-top: 6px;\n    }\n\n    .checkmark {\n      width: 18px;\n      height: 18px;\n      margin-right: 6px;\n    }\n\n    .doctor-name {\n      font-weight: 600;\n      font-size: 14px;\n      color: #333;\n    }\n\n    @media (max-width: 480px) {\n      .testimonial-container {\n        padding: 14px;\n      }\n\n      .stars-image {\n        width: 80px;\n      }\n\n      .testimonial-text {\n        font-size: 13.5px;\n      }\n}\n  <\/style>\n<\/head>\n<body>\n  <div class=\"testimonial-container\">\n    <div class=\"profile-image\">\n      <img src=\"https:\/\/www.lutronic.com\/us\/wp-content\/uploads\/sites\/5\/2023\/08\/Melda_Isaac-600x600-1.png\" alt=\"Dr Lemoine\">\n    <\/div>\n    <div class=\"testimonial-content\">\n      <div class=\"stars-container\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0932\/1719\/4322\/files\/stars-4.5.svg?v=1748649672\" alt=\"Stars\" class=\"stars-image\">\n      <\/div>\n      <p class=\"testimonial-text\">\n        \"Je recommande ce sérum à toutes mes clientes. Alvora stimule la repousse, apaise le cuir chevelu et redonne du volume en quelques semaines.\"\n      <\/p>\n      <div class=\"doctor-verification\">\n        <img src=\"https:\/\/pagepilot.ai\/images\/checkmark.svg\" alt=\"Verified Icon\" class=\"checkmark\">\n        <span class=\"doctor-name\">Dr Lemoine<\/span>\n      <\/div>\n    <\/div>\n  <\/div>\n<\/body>\n<\/html>"}}},"block_order":["liquid_RaqCci","text_bP7Yxj","title_qpdrVy","text_JCFB7i","liquid_jUjxDL","separator_VwBkN4","badges_LY9afh","liquid_JhqBmw","liquid_CQMbXr","liquid_kRHFp8","liquid_WUzM4T","liquid_9QUMDG","price_nwTKD6","liquid_EjwYPA","liquid_Y4JQ7A","image_DFMKKc","liquid_mgWEc8","liquid_6Yj4Rm","liquid_rnc9DY","liquid_xPTrhk","liquid_Hx8VaY","liquid_qKXULc","image_t3GLgX","kaching_bundles_app_block_4zzkRB","rating_gAVpEc","description_rQAcbR","variant_picker_cBGtc7","quantity_selector_PgDJaN","liquid_WfFHHc","liquid_gzRNpm","liquid_PDR9L9","liquid_DLwPfG","liquid_f43YHT","image_qbkqxc","buy_buttons_Frx3BE","image_6eCi93","liquid_wjrkyR","image_L9CxLd","image_3j8XkQ","liquid_GyiEVb","image_QbKfxJ","liquid_MrdkgN","liquid_YTTrdP","liquid_d9Hz8U","liquid_Hte4bd","liquid_em43FN","pickup_availability_8hEgYF","liquid_64FUeK","liquid_adAUEa"],"custom_css":[".section-full {padding-bottom: 0px;}"],"settings":{"full_width":true,"product":"velvetcare-kit-beaute-pieds","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"contained","mobile_carousel_control":"thumbnails","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":false,"max_image_zoom_level":3,"background":"","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"video_story_p4DHUr":{"type":"Video-story","blocks":{"video_qL8wg9":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","modal_heading":"<h4>Modal Heading<\/h4>","modal_text":"<p>Modal Text<\/p>"}},"video_8pdFpz":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","modal_heading":"","modal_text":""}},"video_bMXxLB":{"type":"video","settings":{"video_url":"","modal_heading":"","modal_text":""}}},"block_order":["video_qL8wg9","video_8pdFpz","video_bMXxLB"],"name":"SS - Product Videos","settings":{"videos_position":"below_buy","use_metafield":false,"heading":"<p>Elles l'ont essayé… et elles valident !<\/p>","heading_custom":false,"heading_font":"josefin_sans_n4","heading_size":18,"heading_size_mobile":18,"heading_height":130,"heading_align":"center","heading_align_mobile":"center","slider_view":3,"slider_view_mobile":3,"slider_gap":16,"slider_gap_mobile":16,"slider_mt":20,"card_radius":10,"card_border_thickness":0,"card_shadow":true,"video_ratio":"portrait","video_ratio_mobile":"portrait","video_overlay":0.3,"icon_size":34,"icon_size_mobile":34,"icon_border_thickness":1,"icon_position_mobile":"bottom_left","icon_position":"bottom_left","hide_icon":false,"arrow_size":35,"arrow_size_mobile":35,"arrow_radius":5,"arrow_border_thickness":0,"arrow_hover_shadow":true,"arrow_show_desktop":true,"arrow_show_mobile":true,"show_content":false,"modal_width":30,"modal_width_mobile":95,"modal_padding_vertical":0,"modal_padding_vertical_mobile":0,"modal_padding_horizontal":0,"modal_padding_horizontal_mobile":0,"modal_radius":16,"modal_border_thickness":0,"modal_overlay":50,"close_size":42,"close_size_mobile":42,"close_radius":8,"close_border_thickness":0,"buttons_size":48,"buttons_size_mobile":48,"buttons_radius":8,"buttons_border_thickness":0,"modal_video_radius":0,"modal_video_border_thickness":0,"modal_video_ratio":"portrait","modal_video_ratio_mobile":"portrait","modal_heading_custom":false,"modal_heading_font":"josefin_sans_n4","modal_heading_size":28,"modal_heading_size_mobile":28,"modal_heading_height":130,"modal_heading_align":"center","modal_heading_align_mobile":"center","modal_text_custom":false,"modal_text_font":"josefin_sans_n4","modal_text_size":16,"modal_text_size_mobile":16,"modal_text_height":130,"modal_text_align":"center","modal_text_align_mobile":"center","modal_text_mt":16,"card_bg_color":"#ffffff","card_border_color":"#000000","card_shadow_color":"#000000","video_overlay_color":"#000000","icon_bg_color":"#000000","icon_border_color":"#ffffff","icon_color":"#ffffff","arrow_bg_color":"#ffffff","arrow_bg_hover_color":"#ffffff","arrow_border_color":"#000000","arrow_border_hover_color":"#000000","arrow_icon_color":"#1c1c1c","arrow_icon_hover_color":"#1c1c1c","modal_bg_color":"#ffffff","modal_border_color":"#000000","close_bg_color":"#ffffff","close_border_color":"#000000","close_icon_color":"#ffffff","buttons_bg_color":"#ffffff","buttons_border_color":"#000000","buttons_icon_color":"#ffffff","modal_video_border_color":"#000000","modal_content_bg_color":"#ffffff","modal_content_border_color":"#000000","modal_heading_color":"#000000","modal_text_color":"#000000","heading_color":"#000000","background_color":"#ffffff","background_gradient":"","border_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":20,"padding_bottom":20,"padding_horizontal":0,"padding_horizontal_mobile":0,"border_thickness":0,"lazy":true}},"tabs_UYNyXK":{"type":"tabs","blocks":{"tab_tYFhCh":{"type":"tab","name":"Specifications","settings":{"title":"VelvetCare est-il sûr pour ma peau ?","content":"<p>VelvetCare est <strong>certifié CE<\/strong> et testé sur tous types de peaux. L'appareil utilise uniquement une abrasion douce contrôlée, sans aucun produit chimique.<\/p><p><strong>Utilisation sécurisée :<\/strong><\/p><ul><li>Aucune douleur quand utilisé correctement<\/li><li>Commencez par la vitesse faible<\/li><li>Ne restez pas longtemps au même endroit<\/li><li>N'appuyez pas excessivement<\/li><\/ul><p><strong>Contre-indications :<\/strong><\/p><ul><li>Peau blessée ou irritée<\/li><li>Diabète (avis médical requis)<\/li><li>Problèmes de circulation<\/li><\/ul><p>Une utilisation excessive peut causer des rougeurs. Suivez les instructions pour une utilisation optimale et sans risque.<\/p>","page":""}},"tab_RcxerQ":{"type":"tab","name":"Mode d'emploi","settings":{"title":"Comment l'utiliser ?","content":"<p><strong>1. 🔌 Branchez<\/strong> l'appareil et allumez-le<br\/><strong>2. 💿 Choisissez<\/strong> votre disque <br\/><strong>3. 👣 Passez délicatement<\/strong> sur vos pieds secs, 2 minutes maximum par pied<br\/><strong>4. ✨ Admirez<\/strong> vos pieds doux et lisses instantanément !<\/p><p><strong>💡 Conseil pro :<\/strong> Commencez par la vitesse la plus lente si vous avez la peau sensible. Utilisez 1-2 fois par semaine pour maintenir des pieds parfaits.<\/p>","page":""}},"tab_XCBbxB":{"type":"tab","name":"Livraison gratuite","settings":{"title":"Livraison gratuite","content":"<p>La livraison à domicile est gratuite. En fonction du volume de la commande, le délai de livraison estimé est de <strong>6 à 11 jours ouvrables<\/strong><\/p>","page":""}},"tab_XkVxMh":{"type":"tab","name":"30 jours money back","settings":{"title":"Garantie 30 jours","content":"<p>Vous disposez de 30 jours pour changer d’avis après réception de votre commande.<\/p>","page":""}},"tab_WJfzRi":{"type":"tab","name":"Contact","settings":{"title":"Contactez-nous 7j\/7j","content":"<p>Notre équipe est là pour vous aider, 7 jours sur 7.<br\/><br\/>Vous pouvez nous contacter par e-mail.<br\/><br\/>N’hésitez pas à nous écrire, nous serons ravis de vous assister.<\/p>","page":""}}},"block_order":["tab_tYFhCh","tab_RcxerQ","tab_XCBbxB","tab_XkVxMh","tab_WJfzRi"],"custom_css":[".section-full {padding-top: 0px;}"],"settings":{"full_width":false,"content_size":"medium","subheading":"","title":"","text_alignment":"center","first_tab_open":false,"background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"rich_text_krR8BP":{"type":"rich-text","blocks":{"heading_wBh4dU":{"type":"heading","settings":{"text":"Elles l’ont adopté… et ne peuvent plus revenir en arrière.","heading_tag":"h3","text_color":"","gradient":""}}},"block_order":["heading_wBh4dU"],"disabled":true,"name":"Rich text","settings":{"full_width":true,"content_width":"small","text_position":"center","background":"#fff5f0","background_gradient":"","text_color":""}},"multi_column_kzXeKK":{"type":"multi-column","blocks":{"item_B9yCVk":{"type":"item","settings":{"column_size":"3","title":"Étape 1 - Préparez","heading_tag":"h4","content":"<p>Préparez le Velvetcare en collant le disque de votre choix, branchez l'appareil et choisissez le niveau d'intensité.<\/p>","link_url":"","link_text":"","link_style":"link"}}},"block_order":["item_B9yCVk"],"custom_css":[],"name":"Ingredients\/mode emploi","settings":{"full_width":false,"stack_on_mobile":false,"gap":"small","text_alignment":"center","subheading":"","title":"","content":"<h3>Des pieds parfaits en seulement 3 étapes<\/h3>","background":"#ffffff","background_gradient":"","text_color":""}},"rich_text_zTeKM8":{"type":"rich-text","blocks":{"heading_cWHzdB":{"type":"heading","settings":{"text":"Pourquoi vous ne pourrez plus vous passer de VelvetCare ?","heading_tag":"h3","text_color":"","gradient":""}}},"block_order":["heading_cWHzdB"],"custom_css":[".section-full {padding-bottom: 0px;}"],"settings":{"full_width":true,"content_width":"small","text_position":"center","background":"","background_gradient":"","text_color":""}},"1755962910ad644161":{"type":"apps","blocks":{"pretty_comparison_tables_table_DmCcTD":{"type":"shopify:\/\/apps\/pretty-comparison-tables\/blocks\/table\/4ce14980-e26b-4398-92cd-f582d95d4f05","settings":{"product":"velvetcare-kit-beaute-pieds","title_text":"","title_font_tag":"h2","section_background_color":""}}},"block_order":["pretty_comparison_tables_table_DmCcTD"],"settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"background":"","background_gradient":"","text_color":""}},"faq_RQbaAc":{"type":"faq","blocks":{"item_VJTCM8":{"type":"item","settings":{"title":"Qu'est-ce que VelvetCare™ ?","content":"<p>Un outil électronique de pédicure (alliage d'aluminium, design rose) qui élimine<br\/>sans douleur peaux mortes, callosités et talons secs. 600 tr\/min, poignée<br\/>ergonomique, branché sur secteur : pas de batterie à gérer.<\/p>"}},"item_TBeWUn":{"type":"item","settings":{"title":"Est-ce que ça marche sur les callosités très épaisses ?","content":"<p>Oui ! VelvetCare élimine même les callosités les plus tenaces. Pour les cas extrêmes, 2-3 séances suffisent pour une transformation complète.<\/p>"}},"item_HGbLka":{"type":"item","disabled":true,"settings":{"title":"Is it suitable for all sleeping positions?","content":"<p>Les premiers effets sont généralement visibles <strong>entre 2 et 3 semaines<\/strong> : cuir chevelu apaisé, cheveux plus forts et apparition de baby hairs. Pour des résultats complets (densité, repousse visible), une utilisation régulière pendant <strong>2 à 3 mois<\/strong> est recommandée.<\/p><p><\/p>"}},"item_Ee3gXV":{"type":"item","disabled":true,"settings":{"title":"Combien de temps avant de voir des résultats ?","content":"<p>The high-density memory foam is carefully balanced: not too hard, not too soft. It adapts to your shape and sleeping position, offering just the right support where you need it most. And if it’s not for you, no worries…<\/p>"}},"item_JxqYeC":{"type":"item","settings":{"title":"Quelle différence avec les râpes classiques ?","content":"<p>VelvetCare polit sans agresser grâce à sa technologie micro-vibrations. Fini les micro-coupures et irritations des râpes manuelles.<\/p>"}},"item_Aq4kCE":{"type":"item","settings":{"title":"Est-ce que c'est vraiment économique ?","content":"<p>Une pédicure coûte 60€. VelvetCare se rembourse dès la première utilisation et vous économise 600€\/an minimum.<\/p>"}},"item_6FVRBJ":{"type":"item","settings":{"title":"Est-ce que c'est douloureux?","content":"<p>Non. VelvetCare™ polit la peau, il ne coupe pas. Utilisez la vitesse basse pour démarrer si vous avez la peau sensible.<\/p>"}},"item_UdVHMY":{"type":"item","settings":{"title":"Et si je n’aime pas le produit ?","content":"<p>Nous sommes convaincus que vous allez l’adorer, mais si pour une raison quelconque vous n’êtes pas 100 % satisfait(e) dans les 30 jours suivant la réception, il vous suffit de nous contacter<\/p>"}}},"block_order":["item_VJTCM8","item_TBeWUn","item_HGbLka","item_Ee3gXV","item_JxqYeC","item_Aq4kCE","item_6FVRBJ","item_UdVHMY"],"settings":{"full_width":true,"subheading":"","title":"FAQ","content":"","team_avatar_width":160,"support_hours":"","answer_time":"","button_text":"","button_url":"","text_position":"center","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","button_background":"","button_text_color":"","accordion_background":"","accordion_text_color":""}},"175484157079b90b20":{"type":"apps","blocks":{"loox_reviews_loox_agg_section_Gry8Py":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-agg-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"hide_thumbnails":true,"product_handle":"","aggregated":true,"data-limit":8,"maxwidth":1080,"is_sample":true}}},"block_order":["loox_reviews_loox_agg_section_Gry8Py"],"settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"background":"","background_gradient":"","text_color":""}},"1754426774688f8537":{"type":"apps","settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"background":"","background_gradient":"","text_color":""}},"contact_RUdcby":{"type":"contact","settings":{"full_width":true,"subheading":"Notre service client est disponible 7 jours sur 7. Délai moyen de réponse : 24 à 48 heures.","title":"Une question ?","content":"<p>N’hésitez pas à nous écrire, nous sommes là pour vous aider.<\/p>","text_position":"center","contact_form_size":"large","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","contact_background":"","contact_text_color":"","button_background":"#000000","button_text_color":"#ffffff"}}},"order":["image_with_text_overlay_FhdizH","logo_list_c3ppmd","image_with_text_overlay_EtGYza","rich_text_ikwdf3","image_with_text_overlay_3mLjrK","rich_text_WRccK8","image_with_text_overlay_T4PQMt","multi_column_tzwVE8","custom_liquid_WVKqBW","rich_text_Khgqwn","featured_product_jWDqw9","video_story_p4DHUr","tabs_UYNyXK","rich_text_krR8BP","multi_column_kzXeKK","rich_text_zTeKM8","1755962910ad644161","faq_RQbaAc","175484157079b90b20","1754426774688f8537","contact_RUdcby"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_FhdizH": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_BecCNN": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_nJAUFy": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_BecCNN",
+        "richtext_nJAUFy"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Clients_et_banniere_60.png",
+        "mobile_image": "shopify://shop_images/Clients_et_banniere_60.png",
+        "mobile_text_position": "place-self-start-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#252627",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_c3ppmd": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_NaYWy4": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_NaYWy4"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 5px;}"
+      ],
+      "name": "Magazines",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": "#ffffff"
+      }
+    },
+    "image_with_text_overlay_EtGYza": {
+      "type": "image-with-text-overlay",
+      "name": "Images avec benefices",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_ikwdf3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kgNeXK": {
+          "type": "heading",
+          "settings": {
+            "text": "Une technologie innovante et indolore",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_kgNeXK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_3mLjrK": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_WRccK8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MCP6fM": {
+          "type": "heading",
+          "settings": {
+            "text": "Plus de 7000 femmes l'ont adopté, et vous?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MCP6fM"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 20px; padding-bottom: 5px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_T4PQMt": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-full {padding-top: 0px; padding-bottom: 0px;}"
+      ],
+      "name": "Trustpilot",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_tzwVE8": {
+      "type": "multi-column",
+      "blocks": {
+        "item_htEXrq": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "column_size": "3",
+            "title": "Sarah M.",
+            "heading_tag": "h4",
+            "content": "<p>Wow... Cet appareil électrique anti-callosités fonctionne vraiment très bien ! Je ne m'attendais pas à des résultats aussi spectaculaires. La différence avant/après est saisissante, mes talons étaient complètement abîmés et maintenant ils sont parfaitement lisses !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_htEXrq"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
+      "name": "Avis client avec photo",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_WVKqBW": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "Over 4M Tiktok gris",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TikTok Badge</title>\n<style>\n  body.unique-body-Xyz123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #f0f0f0;\n  }\n\n  .unique-badge-Def456 {\n    display: flex;\n    align-items: center;\n    background-color: #f8f8f8;\n    border-radius: 25px;\n    color: #000;\n    font-size: 14px;\n    font-weight: bold;\n    padding: 10px 20px;\n    text-decoration: none;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    border: 1px solid #e0e0e0;\n    position: relative;\n    height: 35px;\n    margin: 2px 0; /* Üst ve alt 2px margin ekler */\n  }\n\n  .unique-icon-Ghi789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 10px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-badge-Def456\">\n  <img src=\"https://www.svgrepo.com/show/473806/tiktok.svg\" alt=\"TikTok Icon\" class=\"unique-icon-Ghi789\">\n  <span>Over 4M Views on TikTok</span>\n</div>\n\n</body>\n</html>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_Khgqwn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4xyhRk": {
+          "type": "heading",
+          "settings": {
+            "text": "Des résultats concrets",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4xyhRk"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_jWDqw9": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_RaqCci": {
+          "type": "liquid",
+          "name": "Avis trustpilot",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #00DA8E;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.8 | Avis\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "text_bP7Yxj": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>VelvetCare -  Transforme et Sublime Vos Pieds</h3>"
+          }
+        },
+        "title_qpdrVy": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "text_JCFB7i": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>La technologie micro-vibrations de VelvetCare <strong>transforme</strong> vos pieds <strong>abîmés</strong> en <strong>pieds de rêve</strong>. Retrouvez confiance en <strong>moins de 5 minutes</strong> et portez enfin vos sandales sans complexe 🥰.</p>"
+          }
+        },
+        "liquid_jUjxDL": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"benefits-list\">\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Résultats visibles dès la 1ère utilisation</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Des pieds doux en toute occasion</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Économise 600€/an</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Réutilisable à vie</span>\n  </div>\n</div>\n\n<style>\n.benefits-list {\n  display: flex;\n  flex-direction: column;\n  gap: 2px;\n  margin: 10px 0;\n}\n\n.benefit-item {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n  padding: 2px 0;\n}\n\n.check-icon {\n  width: 18px;\n  height: 18px;\n  flex-shrink: 0;\n}\n\n.benefit-text {\n  font-family: 'Poppins', Arial, sans-serif;\n  font-size: 14px;\n  font-weight: 400;\n  color: #2C2C2C;\n  line-height: 1.2;\n}\n\n@media (max-width: 768px) {\n  .benefit-text {\n    font-size: 13px;\n  }\n  \n  .check-icon {\n    width: 16px;\n    height: 16px;\n  }\n  \n  .benefits-list {\n    gap: 1px;\n  }\n}\n</style>"
+          }
+        },
+        "separator_VwBkN4": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "badges_LY9afh": {
+          "type": "badges",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_JhqBmw": {
+          "type": "liquid",
+          "name": "3 badges ✔️ arriere plan gris",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Product Features</title>\n    <style>\n        :root {\n            --text-color: #333;\n            --hover-bg-color: #f1f1f1;\n            --highlight-color: #000;\n            --icon-color: #007BFF;\n            --transition-duration: 0.3s;\n            --font-family: 'Helvetica Neue', Arial, sans-serif;\n        }\n\n        body.bdy-a123 {\n            font-family: var(--font-family);\n            display: flex;\n            justify-content: center;\n            align-items: flex-start;\n            height: 100vh;\n            margin: 0;\n            background: #f0f0f0;\n            padding: 20px;\n        }\n\n        .container-x987 {\n            width: 100%;\n            max-width: 400px;\n            display: flex;\n            flex-direction: column;\n            gap: 10px;\n        }\n\n        .item-z456 {\n            display: flex;\n            align-items: center;\n            padding: 5px 10px;\n            border-radius: 8px;\n            transition: background-color var(--transition-duration) ease, transform var(--transition-duration) ease;\n            cursor: default;\n            background: var(--hover-bg-color);\n        }\n\n        .item-z456:hover {\n            background-color: #e0e0e0;\n            transform: translateX(10px);\n        }\n\n        .icon-w321 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n            transition: transform var(--transition-duration) ease;\n            fill: var(--icon-color);\n        }\n\n        .item-z456:hover .icon-w321 {\n            transform: rotate(360deg);\n        }\n\n        .text-v654 {\n            font-size: 14px;\n            color: var(--text-color);\n            transition: color var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .text-v654 {\n            color: var(--highlight-color);\n        }\n\n        @media (max-width: 600px) {\n            .text-v654 {\n                font-size: 12px;\n            }\n\n            .icon-w321 {\n                width: 20px;\n                height: 20px;\n                margin-right: 8px;\n            }\n        }\n    </style>\n</head>\n<body class=\"bdy-a123\">\n    <div class=\"container-x987\">\n        <div class=\"item-z456\">\n            <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#000000\" class=\"icon-w321\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <defs> <path id=\"check-a\" d=\"M4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L1.90917969,5.46118164 C1.5186554,5.85170593 0.885490417,5.85170593 0.494966125,5.46118164 C0.104441833,5.07065735 0.104441833,4.43749237 0.494966125,4.04696808 L4.29289322,0.292893219 Z\"></path> <path id=\"check-c\" d=\"M10.7071068,13.2928932 C11.0976311,13.6834175 11.0976311,14.3165825 10.7071068,14.7071068 C10.3165825,15.0976311 9.68341751,15.0976311 9.29289322,14.7071068 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 L4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L2.41421356,5 L10.7071068,13.2928932 Z\"></path> </defs> <g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(-90 11 7)\"> <g transform=\"translate(1 1)\"> <mask id=\"check-b\" fill=\"#ffffff\"> <use xlink:href=\"#check-a\"></use> </mask> <use fill=\"#D8D8D8\" fill-rule=\"nonzero\" xlink:href=\"#check-a\"></use> <g fill=\"#9effb1\" mask=\"url(#check-b)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-7 -5)\"></rect> </g> </g> <mask id=\"check-d\" fill=\"#ffffff\"> <use xlink:href=\"#check-c\"></use> </mask> <use fill=\"#000000\" fill-rule=\"nonzero\" xlink:href=\"#check-c\"></use> <g fill=\"#9458ff\" mask=\"url(#check-d)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-6 -4)\"></rect> </g> </g> </g></svg>\n            <div class=\"text-v654\">Easily Changeable 6 Different Heads</div>\n        </div>\n        <div class=\"item-z456\">\n            <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#000000\" class=\"icon-w321\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <defs> <path id=\"check-a\" d=\"M4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L1.90917969,5.46118164 C1.5186554,5.85170593 0.885490417,5.85170593 0.494966125,5.46118164 C0.104441833,5.07065735 0.104441833,4.43749237 0.494966125,4.04696808 L4.29289322,0.292893219 Z\"></path> <path id=\"check-c\" d=\"M10.7071068,13.2928932 C11.0976311,13.6834175 11.0976311,14.3165825 10.7071068,14.7071068 C10.3165825,15.0976311 9.68341751,15.0976311 9.29289322,14.7071068 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 L4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L2.41421356,5 L10.7071068,13.2928932 Z\"></path> </defs> <g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(-90 11 7)\"> <g transform=\"translate(1 1)\"> <mask id=\"check-b\" fill=\"#ffffff\"> <use xlink:href=\"#check-a\"></use> </mask> <use fill=\"#D8D8D8\" fill-rule=\"nonzero\" xlink:href=\"#check-a\"></use> <g fill=\"#9effb1\" mask=\"url(#check-b)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-7 -5)\"></rect> </g> </g> <mask id=\"check-d\" fill=\"#ffffff\"> <use xlink:href=\"#check-c\"></use> </mask> <use fill=\"#000000\" fill-rule=\"nonzero\" xlink:href=\"#check-c\"></use> <g fill=\"#9458ff\" mask=\"url(#check-d)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-6 -4)\"></rect> </g> </g> </g></svg>\n            <div class=\"text-v654\">Waterproof Charging Unit</div>\n        </div>\n        <div class=\"item-z456\">\n            <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#000000\" class=\"icon-w321\"><g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g><g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g><g id=\"SVGRepo_iconCarrier\"> <defs> <path id=\"check-a\" d=\"M4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L1.90917969,5.46118164 C1.5186554,5.85170593 0.885490417,5.85170593 0.494966125,5.46118164 C0.104441833,5.07065735 0.104441833,4.43749237 0.494966125,4.04696808 L4.29289322,0.292893219 Z\"></path> <path id=\"check-c\" d=\"M10.7071068,13.2928932 C11.0976311,13.6834175 11.0976311,14.3165825 10.7071068,14.7071068 C10.3165825,15.0976311 9.68341751,15.0976311 9.29289322,14.7071068 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 L4.29289322,0.292893219 C4.68341751,-0.0976310729 5.31658249,-0.0976310729 5.70710678,0.292893219 C6.09763107,0.683417511 6.09763107,1.31658249 5.70710678,1.70710678 L2.41421356,5 L10.7071068,13.2928932 Z\"></path> </defs> <g fill=\"none\" fill-rule=\"evenodd\" transform=\"rotate(-90 11 7)\"> <g transform=\"translate(1 1)\"> <mask id=\"check-b\" fill=\"#ffffff\"> <use xlink:href=\"#check-a\"></use> </mask> <use fill=\"#D8D8D8\" fill-rule=\"nonzero\" xlink:href=\"#check-a\"></use> <g fill=\"#9effb1\" mask=\"url(#check-b)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-7 -5)\"></rect> </g> </g> <mask id=\"check-d\" fill=\"#ffffff\"> <use xlink:href=\"#check-c\"></use> </mask> <use fill=\"#000000\" fill-rule=\"nonzero\" xlink:href=\"#check-c\"></use> <g fill=\"#9458ff\" mask=\"url(#check-d)\"> <rect width=\"24\" height=\"24\" transform=\"translate(-6 -4)\"></rect> </g> </g> </g></svg>\n            <div class=\"text-v654\">3.5 hours continuous operation time</div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_CQMbXr": {
+          "type": "liquid",
+          "name": "3 badges ☑️ arriere plan gris",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Features List</title>\n    <style>\n        @keyframes borderAnimation {\n            0% {\n                border-color: #e8e8e8;\n                box-shadow: 0 0 10px rgba(232, 232, 232, 0.5);\n            }\n            50% {\n                border-color: #dcdcdc;\n                box-shadow: 0 0 20px rgba(220, 220, 220, 0.7);\n            }\n            100% {\n                border-color: #e8e8e8;\n                box-shadow: 0 0 10px rgba(232, 232, 232, 0.5);\n            }\n        }\n\n        body.unique-body-xyz123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f0f0f0; /* Açık gri */\n            padding: 4px 0; /* Yukarı ve aşağı 4px boşluk */\n        }\n\n        .features-container-xyz123 {\n            background-color: #f8f9fa; /* Bir ton daha açık gri */\n            border-radius: 12px;\n            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\n            padding: 20px;\n            max-width: 400px;\n            width: 100%;\n            border: 2px solid #e8e8e8; /* Bir ton daha açık border rengi */\n            animation: borderAnimation 3s infinite;\n        }\n\n        .feature-item-xyz123 {\n            display: flex;\n            align-items: center;\n            margin-bottom: 15px;\n        }\n\n        .feature-item-xyz123:last-child {\n            margin-bottom: 0;\n        }\n\n        .check-icon-xyz123 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n        }\n\n        .feature-text-xyz123 {\n            font-size: 14px;\n            color: #333;\n        }\n    </style>\n</head>\n<body class=\"unique-body-xyz123\">\n    <div class=\"features-container-xyz123\">\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Easily Changeable 6 Different Heads</div>\n        </div>\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Waterproof Charging Unit</div>\n        </div>\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">3.5 hours continuous operation time</div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_kRHFp8": {
+          "type": "liquid",
+          "name": "3 bagdes ☑️ sans arriere plan",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Product Features</title>\n    <style>\n        :root {\n            --text-color: #333;\n            --hover-bg-color: #f1f1f1;\n            --highlight-color: #000;\n            --transition-duration: 0.3s;\n            --font-family: 'Helvetica Neue', Arial, sans-serif;\n        }\n\n        body.bdy-a123 {\n            font-family: var(--font-family);\n            display: flex;\n            justify-content: flex-start;\n            align-items: flex-start;\n            height: 100vh;\n            margin: 0;\n            background: none;\n            padding: 20px;\n        }\n\n        .container-x987 {\n            width: 100%;\n            max-width: 600px;\n            display: flex;\n            flex-direction: column;\n            gap: 5px; /* Boşlukları azaltmak için gap değeri */\n        }\n\n        .item-z456 {\n            display: flex;\n            align-items: center;\n            padding: 5px 0; /* Dikey boşluğu azaltmak için padding değeri */\n            border-radius: 8px;\n            transition: background-color var(--transition-duration) ease, transform var(--transition-duration) ease;\n            cursor: default; /* İmlecin değişmesini engellemek için */\n        }\n\n        .item-z456:hover {\n            background-color: var(--hover-bg-color);\n            transform: translateX(10px);\n        }\n\n        .icon-w321 {\n            width: 24px;\n            height: 24px;\n            margin-right: 10px;\n            transition: filter var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .icon-w321 {\n            filter: brightness(0) invert(0);\n        }\n\n        .text-v654 {\n            font-size: 16px;\n            color: var(--text-color);\n            transition: color var(--transition-duration) ease;\n        }\n\n        .item-z456:hover .text-v654 {\n            color: var(--highlight-color);\n        }\n\n        @media (max-width: 600px) {\n            .text-v654 {\n                font-size: 14px;\n            }\n        }\n    </style>\n</head>\n<body class=\"bdy-a123\">\n    <div class=\"container-x987\">\n        <div class=\"item-z456\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"icon-w321\">\n            <div class=\"text-v654\">Easily Changeable 6 Different Heads</div>\n        </div>\n        <div class=\"item-z456\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"icon-w321\">\n            <div class=\"text-v654\">Waterproof Charging Unit</div>\n        </div>\n        <div class=\"item-z456\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"icon-w321\">\n            <div class=\"text-v654\">3.5 hours continuous operation time</div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_WUzM4T": {
+          "type": "liquid",
+          "name": "3 badges simples",
+          "disabled": true,
+          "settings": {
+            "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Affinez votre silhouette plus rapidement</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Réduisez visiblement la cellulite</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Tonifiez et raffermissez vos jambes et fesses</span>\n</li>"
+          }
+        },
+        "liquid_9QUMDG": {
+          "type": "liquid",
+          "name": "Badges",
+          "disabled": true,
+          "settings": {
+            "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Triple bille froide = application précise + massage stimulant + absorption maximale.</span>\n</li> \n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Favorise une repousse homogène</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Cuir chevelu plus sain chaque jour</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Stoppe la chute dès 2 semaines</span>\n</li>"
+          }
+        },
+        "price_nwTKD6": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_EjwYPA": {
+          "type": "liquid",
+          "name": "Badges mauves",
+          "settings": {
+            "liquid": "<div class=\"benefits-list\">\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Résultats visibles dès la 1ère utilisation</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Une fois acheté utilisable à vie !</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Économisez 600€/an de pédicures</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Chaque VelvetCare inclut 60 disques de rechange</span>\n  </div>\n\n</div>\n\n<style>\n.benefits-list {\n  display: flex;\n  flex-direction: column;\n  gap: 8px;\n  margin: 15px 0;\n}\n\n.benefit-item {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.check-icon {\n  width: 20px;\n  height: 20px;\n  flex-shrink: 0;\n}\n\n.benefit-text {\n  font-family: 'Poppins', Arial, sans-serif;\n  font-size: 15px;\n  font-weight: 400;\n  color: #2C2C2C;\n  line-height: 1.3;\n}\n\n@media (max-width: 768px) {\n  .benefit-text {\n    font-size: 14px;\n  }\n  \n  .check-icon {\n    width: 18px;\n    height: 18px;\n  }\n  \n  .benefits-list {\n    gap: 6px;\n  }\n}\n</style>"
+          }
+        },
+        "liquid_Y4JQ7A": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"benefits-list\">\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Résultats visibles dès la 1ère utilisation</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Des pieds doux en toute occasion</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Économise 600€/an</span>\n  </div>\n\n  <div class=\"benefit-item\">\n    <svg class=\"check-icon\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"12\" cy=\"12\" r=\"10\" fill=\"#8B4A6B\"/>\n      <path d=\"M9 12l2 2 4-4\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <span class=\"benefit-text\">Réutilisable à vie</span>\n  </div>\n</div>\n\n<style>\n.benefits-list {\n  display: flex;\n  flex-direction: column;\n  gap: 16px;\n  margin: 20px 0;\n}\n\n.benefit-item {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.check-icon {\n  width: 24px;\n  height: 24px;\n  flex-shrink: 0;\n}\n\n.benefit-text {\n  font-family: 'Poppins', Arial, sans-serif;\n  font-size: 16px;\n  font-weight: 400;\n  color: #2C2C2C;\n  line-height: 1.4;\n}\n\n@media (max-width: 768px) {\n  .benefit-text {\n    font-size: 14px;\n  }\n  \n  .check-icon {\n    width: 20px;\n    height: 20px;\n  }\n}\n</style>"
+          }
+        },
+        "image_DFMKKc": {
+          "type": "image",
+          "name": "Canva Happy customers",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_mgWEc8": {
+          "type": "liquid",
+          "name": "4,5 Etoiles Avis Trustpilot ",
+          "disabled": true,
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.3</span>\n        <img src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqwTrpqlDxrYZ0pXL4aXXL4azowSSvjMZM2g&s\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(3000 notes)</span>\n    </a>"
+          }
+        },
+        "liquid_6Yj4Rm": {
+          "type": "liquid",
+          "name": "5 Etoiles avis Trustpilot ",
+          "disabled": true,
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(878 notes)</span>\n    </a>"
+          }
+        },
+        "liquid_rnc9DY": {
+          "type": "liquid",
+          "name": "Quality proof FR",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/ASSURANCE_CASSE_VALABLE_1_AN_3.png?v=1743413838\" style=\"width: 100%; margin-bottom: -5px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/TEMPLATE_BLOC_CONTACT_1.png?v=1743413838\" style=\"width: 100%;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
+          }
+        },
+        "liquid_xPTrhk": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!-- Alerte Stock - VelvetCare -->\n<div class=\"stock-alert-banner\">\n  <div class=\"stock-alert-content\">\n    <p class=\"stock-alert-title\">\n      <strong>MISE À JOUR :</strong> En raison de la forte demande pendant notre offre d'été, les stocks sont limités.\n    </p>\n    <p class=\"stock-alert-subtitle\">\n      Notre offre est valable dans la limite des stocks disponibles.\n    </p>\n  </div>\n</div>\n\n<style>\n  .stock-alert-banner {\n    background-color: #fce4ec;\n    border: 1px solid #f8bbd9;\n    border-radius: 8px;\n    padding: 16px 20px;\n    margin: 20px 0;\n    box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n  }\n  \n  .stock-alert-content {\n    text-align: center;\n    max-width: 800px;\n    margin: 0 auto;\n  }\n  \n  .stock-alert-title {\n    font-size: 16px;\n    font-weight: 600;\n    color: #ad1457;\n    margin: 0 0 8px 0;\n    line-height: 1.4;\n  }\n  \n  .stock-alert-subtitle {\n    font-size: 14px;\n    font-weight: 400;\n    color: #8e24aa;\n    margin: 0;\n    line-height: 1.4;\n  }\n  \n  /* Responsive */\n  @media (max-width: 768px) {\n    .stock-alert-banner {\n      padding: 12px 16px;\n      margin: 15px 10px;\n    }\n    \n    .stock-alert-title {\n      font-size: 15px;\n    }\n    \n    .stock-alert-subtitle {\n      font-size: 13px;\n    }\n  }\n  \n  /* Animation subtile */\n  .stock-alert-banner {\n    animation: fadeIn 0.5s ease-in;\n  }\n  \n  @keyframes fadeIn {\n    from { opacity: 0; transform: translateY(-10px); }\n    to { opacity: 1; transform: translateY(0); }\n  }\n</style>"
+          }
+        },
+        "liquid_Hx8VaY": {
+          "type": "liquid",
+          "name": "Offre rupture de stock",
+          "settings": {
+            "liquid": "<div style=\"background-color: #fdecea; padding: 10px 15px; border-radius: 8px; text-align: left; margin-bottom: 15px;\">\n  <p style=\"margin: 0; font-size: 12px; line-height: 1.5; color: #333;\">\n    <strong>MISE À JOUR :</strong> En raison de la forte demande pendant notre offre d'été, les stocks sont limités.<br>\n    Notre offre est valable dans la limite des stocks disponibles.\n  </p>\n</div>"
+          }
+        },
+        "liquid_qKXULc": {
+          "type": "liquid",
+          "name": "Code urgence arriere plan rouge",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">DERNIÈRES PIÈCES - Stock critique !</div>\n</div>"
+          }
+        },
+        "image_t3GLgX": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "rating_gAVpEc": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "description_rQAcbR": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
+        "variant_picker_cBGtc7": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_PgDJaN": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_WfFHHc": {
+          "type": "liquid",
+          "name": "Code urgence sans arriere plan",
+          "disabled": true,
+          "settings": {
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Ajustement de l'espacement */\n    padding-bottom: 10px; /* Ajustement de l'espacement */\n    color: #FF0000; /* Couleur rouge */\n  }\n\n  /* Animation de clignotement uniquement pour le bouton */\n  @keyframes blink {\n    0% { opacity: 1; }\n    50% { opacity: 0.4; }\n    100% { opacity: 1; }\n  }\n\n  .stock-indicator {\n    animation: blink 1s infinite;\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n    <svg class=\"stock-indicator\" width=\"15\" height=\"15\" aria-hidden=\"true\">\n        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n    </svg>  \n    Forte demande | Stock limité ! \n</p>"
+          }
+        },
+        "liquid_gzRNpm": {
+          "type": "liquid",
+          "name": "Money back + limited stock",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n</head>\n<body class=\"unique-body-Xyz123\">\n\n<div class=\"unique-container-Abc456\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"/>\n      </svg>\n      30-day money back guarantee.\n    </span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"/>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"/>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"/>\n      </svg>\n      Limited stock available!\n    </span>\n  </div>\n</div>\n</body>\n</html>"
+          }
+        },
+        "liquid_PDR9L9": {
+          "type": "liquid",
+          "name": "Urgence + garantie",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Rotating Warnings</title>\n<style>\n  body.unique-body-Xyz789 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-warning-container-Abc123 {\n    position: relative;\n    width: 100%;\n    max-width: 600px; /* Genişliği maksimum yap */\n    height: 40px; /* Yüksekliği azalt */\n    overflow: hidden;\n  }\n\n  .unique-warning-Def456 {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    display: flex;\n    align-items: center;\n    border-radius: 10px;\n    color: #333;\n    font-size: 13px;\n    padding: 10px;\n    border: 1px solid #E2E2E2;\n    box-sizing: border-box;\n    opacity: 0;\n    transition: opacity 0.5s ease-in-out; /* Animasyonun süresini ve şiddetini azalt */\n  }\n\n  .unique-warning-container-Abc123 .unique-warning-Def456:nth-child(1) {\n    animation: unique-showWarning-Ghi789 8s linear infinite 0s;\n  }\n\n  .unique-warning-container-Abc123 .unique-warning-Def456:nth-child(2) {\n    animation: unique-showWarning-Ghi789 8s linear infinite 4s;\n  }\n\n  @keyframes unique-showWarning-Ghi789 {\n    0%, 50% {\n      opacity: 1;\n    }\n    50.01%, 100% {\n      opacity: 0;\n    }\n  }\n\n  .unique-red-warning-Jkl012 {\n    background-color: #ffe6e6;\n  }\n\n  .unique-green-warning-Mno345 {\n    background-color: #f0fff0;\n  }\n\n  @keyframes unique-glowRed-Pqr678 {\n    0% { box-shadow: 0 0 3px 0 rgba(255, 0, 0, 0.7); }\n    50% { box-shadow: 0 0 8px 3px rgba(255, 0, 0, 0.5); }\n    100% { box-shadow: 0 0 3px 0 rgba(255, 0, 0, 0.7); }\n  }\n\n  .unique-circleRed-Stu901 {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #8b0000;\n    display: inline-block;\n    animation: unique-glowRed-Pqr678 1s infinite ease-in-out;\n  }\n\n  .unique-tickIcon-Vwx234 {\n    width: 14px;\n    height: 14px;\n    fill: #006400;\n    margin-right: 5px; /* Metni ikona yaklaştır */\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz789\">\n\n<div class=\"unique-warning-container-Abc123\">\n  <div class=\"unique-warning-Def456 unique-red-warning-Jkl012\">\n    <div class=\"unique-circleRed-Stu901\"></div>\n    <span style=\"margin-left: 10px;\">Hurry up! Only a few items left!</span>\n  </div>\n  <div class=\"unique-warning-Def456 unique-green-warning-Mno345\">\n    <svg class=\"unique-tickIcon-Vwx234\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\n      <path d=\"M9 16.2l-4.2-4.2-1.4 1.4 5.6 5.6 12-12-1.4-1.4z\"/>\n    </svg>\n    <span>30-day money back guarantee, no questions.</span>\n  </div>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "liquid_DLwPfG": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<style>\n  .buy-urgency-box {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background: #f6f6f6;\n    border-left: 4px solid #00726f;\n    padding: 14px 18px;\n    margin-top: 20px;\n    border-radius: 8px;\n    font-size: 16px;\n    font-weight: 500;\n    color: #333;\n    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);\n    font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    text-align: center;\n  }\n\n  @media screen and (max-width: 600px) {\n    .buy-urgency-box {\n      font-size: 15px;\n      padding: 12px 16px;\n    }\n  }\n</style>\n\n<div class=\"buy-urgency-box\">\n  🔒 Ne laissez pas tomber vos cheveux un jour de plus.\n</div>"
+          }
+        },
+        "liquid_f43YHT": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "image_qbkqxc": {
+          "type": "image",
+          "name": "Offre cadeau",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "buy_buttons_Frx3BE": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "",
+            "payment_button_background": "rgba(0,0,0,0)",
+            "payment_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_6eCi93": {
+          "type": "image",
+          "name": "Moyens de paiement",
+          "disabled": true,
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_wjrkyR": {
+          "type": "liquid",
+          "name": "Logo moyens de paiements",
+          "settings": {
+            "liquid": "<div style=\"margin-top: -18px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0870/2204/3320/files/badge_paiemejnt.png?v=1736771544\" style=\"width: 100%; margin-bottom: 10px;\">"
+          }
+        },
+        "image_L9CxLd": {
+          "type": "image",
+          "name": "trust garantie 30j",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_3j8XkQ": {
+          "type": "image",
+          "name": "Nom offre",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_GyiEVb": {
+          "type": "liquid",
+          "name": "Bientot fin offre promotionelle",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>New Year Badge</title>\n<style>\n  body.unique-body-Xyz567 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-badge-container-Abc890 {\n    display: flex;\n    align-items: center;\n    background-color: #ffffe6; /* Açık sarı arka plan */\n    border-radius: 12px;\n    padding: 8px 12px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    font-size: 14px;\n    color: #f0ad4e; /* Turuncu metin rengi */\n    margin: 10px 0; /* Aşağı ve yukarı boşluk ekler */\n    transition: transform 0.3s ease-in-out;\n  }\n\n  .unique-badge-container-Abc890:hover {\n    transform: translateY(-5px);\n  }\n\n  .unique-badge-icon-Def123 {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n    font-size: 20px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Xyz567\">\n\n<div class=\"unique-badge-container-Abc890\">\n  <span class=\"unique-badge-icon-Def123\">⏳</span>\n  <span>Cette offre ne reviendra pas!</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "image_QbKfxJ": {
+          "type": "image",
+          "settings": {
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "liquid_MrdkgN": {
+          "type": "liquid",
+          "name": "Bientot offre promo Rouge",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Mother's Day Badge</title>\n<style>\n  body.unique-body-Nmn123 {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    height: 100vh;\n    margin: 0;\n    background-color: #fff;\n  }\n\n  .unique-badge-container-Klm456 {\n    display: flex;\n    align-items: center;\n    background-color: #ffe6e6; /* Açık pembe arka plan */\n    border-radius: 12px;\n    padding: 8px 12px;\n    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n    font-size: 14px;\n    color: #d9534f; /* Koyu kırmızı metin rengi */\n    margin: 10px 0; /* Aşağı ve yukarı boşluk ekler */\n    transition: transform 0.3s ease-in-out;\n  }\n\n  .unique-badge-container-Klm456:hover {\n    transform: translateY(-5px);\n  }\n\n  .unique-badge-icon-Xyz789 {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n    font-size: 20px;\n  }\n</style>\n</head>\n<body class=\"unique-body-Nmn123\">\n\n<div class=\"unique-badge-container-Klm456\">\n  <span class=\"unique-badge-icon-Xyz789\">👩‍👧‍👦</span>\n  <span>Rupture fréquente ⚠️!</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "liquid_YTTrdP": {
+          "type": "liquid",
+          "name": "30 day money back ",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"custom-container-GxfzQpBzq\" style=\"background-color: #dfffd9; border-radius: 10px; padding: 10px; margin-top: 5px; margin-bottom: 5px; position: relative; overflow: hidden;\">\n  <div class=\"custom-circle-VzMgxLkRf\"></div>\n  <span class=\"custom-text-TnBcGxHnq\" style=\"margin-left: 10px; font-size: 16px;\">30-day money back Guarantee</span>\n</div>\n\n<style>\n  @keyframes glow-animation-CtGxjLrMq {\n    0% { box-shadow: 0 0 10px 0 rgba(0, 255, 0, 0.7); }\n    50% { box-shadow: 0 0 20px 10px rgba(0, 255, 0, 0.3); }\n    100% { box-shadow: 0 0 10px 0 rgba(0, 255, 0, 0.7); }\n  }\n\n  .custom-circle-VzMgxLkRf {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: green;\n    display: inline-block;\n    animation: glow-animation-CtGxjLrMq 2s infinite ease-in-out;\n  }\n\n  .custom-text-TnBcGxHnq {\n    margin-left: 10px;\n    font-size: 16px;\n  }\n</style>"
+          }
+        },
+        "liquid_d9Hz8U": {
+          "type": "liquid",
+          "name": "30 money back fond blanc",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"unique-container-Abc123Xyz\" style=\"background-color: white; border: 1px solid #E2E2E2; border-radius: 10px; padding: 10px; margin-top: 5px; margin-bottom: 5px; position: relative; overflow: hidden;\">\n  <div class=\"unique-circle-Abc123Xyz\"></div>\n  <span class=\"unique-text-Abc123Xyz\" style=\"margin-left: 10px; font-size: 16px;\">30-day money back Guarantee</span>\n</div>\n\n<style>\n  @keyframes unique-glow-Abc123Xyz {\n    0% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n    50% { box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.5); }\n    100% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n  }\n\n  .unique-circle-Abc123Xyz {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #006400; /* Daha koyu yeşil renk */\n    display: inline-block;\n    animation: unique-glow-Abc123Xyz 1s infinite ease-in-out; /* 1s süreyle hızlandırılmış ışık saçma animasyonu */\n  }\n</style>"
+          }
+        },
+        "liquid_Hte4bd": {
+          "type": "liquid",
+          "name": "30 money back petit",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"unique-container-Hgf543Tuv\" style=\"background-color: #f0fff0; border: 1px solid #E2E2E2; border-radius: 10px; padding: 10px; margin-top: 5px; margin-bottom: 5px; position: relative; overflow: hidden;\">\n  <div class=\"unique-circle-Hgf543Tuv\"></div>\n  <span class=\"unique-text-Hgf543Tuv\" style=\"margin-left: 10px; font-size: 13px;\">30-day money back guarantee, no questions.</span>\n</div>\n\n<style>\n  @keyframes unique-glow-Hgf543Tuv {\n    0% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n    50% { box-shadow: 0 0 15px 5px rgba(0, 255, 0, 0.5); }\n    100% { box-shadow: 0 0 5px 0 rgba(0, 255, 0, 0.7); }\n  }\n\n  .unique-circle-Hgf543Tuv {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #006400; /* Daha koyu yeşil renk */\n    display: inline-block;\n    animation: unique-glow-Hgf543Tuv 1s infinite ease-in-out; /* 1s süreyle hızlandırılmış ışık saçma animasyonu */\n  }\n\n  .unique-text-Hgf543Tuv {\n    margin-left: 10px;\n    font-size: 13px;\n  }\n</style>"
+          }
+        },
+        "liquid_em43FN": {
+          "type": "liquid",
+          "name": "Avis clients",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Rating Widget</title>\n    <style>\n        body.unique-body-123 {\n            font-family: Arial, sans-serif;\n        }\n\n        .rating-widget-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .profile-images-123 {\n            display: flex;\n            align-items: center;\n            margin-right: 20px; /* Resimlerden uzaklaştırmak için artırıldı */\n        }\n\n        .profile-images-123 img {\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            margin-right: -10px;\n            border: 2px solid white;\n        }\n\n        .rating-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .rating-text-123 {\n            font-size: 14px; /* Font boyutu küçültüldü */\n        }\n\n        .highlight-123 {\n            color: #FF6347; /* Tomato color for highlights */\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body class=\"unique-body-123\">\n\n    <div class=\"rating-widget-123\">\n        <div class=\"profile-images-123\">\n            <img src=\"https://randomuser.me/api/portraits/men/1.jpg\" alt=\"Profile 1\">\n            <img src=\"https://randomuser.me/api/portraits/women/1.jpg\" alt=\"Profile 2\">\n            <img src=\"https://randomuser.me/api/portraits/men/2.jpg\" alt=\"Profile 3\">\n        </div>\n        <div class=\"rating-123\">\n            <span class=\"rating-text-123\">Rated <span class=\"highlight-123\">4.5/5</span> based on <span class=\"highlight-123\">+50 Reviews</span></span>\n        </div>\n    </div>\n\n</body>\n</html>"
+          }
+        },
+        "pickup_availability_8hEgYF": {
+          "type": "pickup_availability",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_64FUeK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-videos'></div>"
+          }
+        },
+        "liquid_adAUEa": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Témoignage Dr Lemoine</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      margin: 0;\n      padding: 16px;\n      background-color: #f5f5f5;\n    }\n\n    .testimonial-container {\n      display: flex;\n      flex-direction: row;\n      align-items: flex-start;\n      border: 1px solid #e1e1e1; /* Couleur du contour conforme à l'image */\n      padding: 16px;\n      border-radius: 12px;\n      background-color: #ffffff;\n      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);\n    }\n\n    .profile-image {\n      flex-shrink: 0;\n      margin-right: 12px;\n    }\n\n    .profile-image img {\n      border-radius: 50%;\n      width: 60px;\n      height: 60px;\n      object-fit: cover;\n    }\n\n    .testimonial-content {\n      flex: 1;\n    }\n\n    .stars-container {\n      margin-bottom: 6px;\n    }\n\n    .stars-image {\n      width: 90px;\n      height: auto;\n    }\n\n    .testimonial-text {\n      font-style: italic;\n      font-size: 14px;\n      color: #333;\n      margin: 8px 0;\n      line-height: 1.5;\n    }\n\n    .doctor-verification {\n      display: flex;\n      align-items: center;\n      margin-top: 6px;\n    }\n\n    .checkmark {\n      width: 18px;\n      height: 18px;\n      margin-right: 6px;\n    }\n\n    .doctor-name {\n      font-weight: 600;\n      font-size: 14px;\n      color: #333;\n    }\n\n    @media (max-width: 480px) {\n      .testimonial-container {\n        padding: 14px;\n      }\n\n      .stars-image {\n        width: 80px;\n      }\n\n      .testimonial-text {\n        font-size: 13.5px;\n      }\n}\n  </style>\n</head>\n<body>\n  <div class=\"testimonial-container\">\n    <div class=\"profile-image\">\n      <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Dr Lemoine\">\n    </div>\n    <div class=\"testimonial-content\">\n      <div class=\"stars-container\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0932/1719/4322/files/stars-4.5.svg?v=1748649672\" alt=\"Stars\" class=\"stars-image\">\n      </div>\n      <p class=\"testimonial-text\">\n        \"Je recommande ce sérum à toutes mes clientes. Alvora stimule la repousse, apaise le cuir chevelu et redonne du volume en quelques semaines.\"\n      </p>\n      <div class=\"doctor-verification\">\n        <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" class=\"checkmark\">\n        <span class=\"doctor-name\">Dr Lemoine</span>\n      </div>\n    </div>\n  </div>\n</body>\n</html>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_RaqCci",
+        "text_bP7Yxj",
+        "title_qpdrVy",
+        "text_JCFB7i",
+        "liquid_jUjxDL",
+        "separator_VwBkN4",
+        "badges_LY9afh",
+        "liquid_JhqBmw",
+        "liquid_CQMbXr",
+        "liquid_kRHFp8",
+        "liquid_WUzM4T",
+        "liquid_9QUMDG",
+        "price_nwTKD6",
+        "liquid_EjwYPA",
+        "liquid_Y4JQ7A",
+        "image_DFMKKc",
+        "liquid_mgWEc8",
+        "liquid_6Yj4Rm",
+        "liquid_rnc9DY",
+        "liquid_xPTrhk",
+        "liquid_Hx8VaY",
+        "liquid_qKXULc",
+        "image_t3GLgX",
+        "rating_gAVpEc",
+        "description_rQAcbR",
+        "variant_picker_cBGtc7",
+        "quantity_selector_PgDJaN",
+        "liquid_WfFHHc",
+        "liquid_gzRNpm",
+        "liquid_PDR9L9",
+        "liquid_DLwPfG",
+        "liquid_f43YHT",
+        "image_qbkqxc",
+        "buy_buttons_Frx3BE",
+        "image_6eCi93",
+        "liquid_wjrkyR",
+        "image_L9CxLd",
+        "image_3j8XkQ",
+        "liquid_GyiEVb",
+        "image_QbKfxJ",
+        "liquid_MrdkgN",
+        "liquid_YTTrdP",
+        "liquid_d9Hz8U",
+        "liquid_Hte4bd",
+        "liquid_em43FN",
+        "pickup_availability_8hEgYF",
+        "liquid_64FUeK",
+        "liquid_adAUEa"
+      ],
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "velvetcare-kit-beaute-pieds",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "video_story_p4DHUr": {
+      "type": "Video-story",
+      "blocks": {
+        "video_qL8wg9": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_text": "<p>Modal Text</p>"
+          }
+        },
+        "video_8pdFpz": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "modal_heading": "",
+            "modal_text": ""
+          }
+        },
+        "video_bMXxLB": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "modal_heading": "",
+            "modal_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_qL8wg9",
+        "video_8pdFpz",
+        "video_bMXxLB"
+      ],
+      "name": "SS - Product Videos",
+      "settings": {
+        "videos_position": "below_buy",
+        "use_metafield": false,
+        "heading": "<p>Elles l'ont essayé… et elles valident !</p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 18,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 3,
+        "slider_gap": 16,
+        "slider_gap_mobile": 16,
+        "slider_mt": 20,
+        "card_radius": 10,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "video_ratio": "portrait",
+        "video_ratio_mobile": "portrait",
+        "video_overlay": 0.3,
+        "icon_size": 34,
+        "icon_size_mobile": 34,
+        "icon_border_thickness": 1,
+        "icon_position_mobile": "bottom_left",
+        "icon_position": "bottom_left",
+        "hide_icon": false,
+        "arrow_size": 35,
+        "arrow_size_mobile": 35,
+        "arrow_radius": 5,
+        "arrow_border_thickness": 0,
+        "arrow_hover_shadow": true,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "show_content": false,
+        "modal_width": 30,
+        "modal_width_mobile": 95,
+        "modal_padding_vertical": 0,
+        "modal_padding_vertical_mobile": 0,
+        "modal_padding_horizontal": 0,
+        "modal_padding_horizontal_mobile": 0,
+        "modal_radius": 16,
+        "modal_border_thickness": 0,
+        "modal_overlay": 50,
+        "close_size": 42,
+        "close_size_mobile": 42,
+        "close_radius": 8,
+        "close_border_thickness": 0,
+        "buttons_size": 48,
+        "buttons_size_mobile": 48,
+        "buttons_radius": 8,
+        "buttons_border_thickness": 0,
+        "modal_video_radius": 0,
+        "modal_video_border_thickness": 0,
+        "modal_video_ratio": "portrait",
+        "modal_video_ratio_mobile": "portrait",
+        "modal_heading_custom": false,
+        "modal_heading_font": "josefin_sans_n4",
+        "modal_heading_size": 28,
+        "modal_heading_size_mobile": 28,
+        "modal_heading_height": 130,
+        "modal_heading_align": "center",
+        "modal_heading_align_mobile": "center",
+        "modal_text_custom": false,
+        "modal_text_font": "josefin_sans_n4",
+        "modal_text_size": 16,
+        "modal_text_size_mobile": 16,
+        "modal_text_height": 130,
+        "modal_text_align": "center",
+        "modal_text_align_mobile": "center",
+        "modal_text_mt": 16,
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#000000",
+        "video_overlay_color": "#000000",
+        "icon_bg_color": "#000000",
+        "icon_border_color": "#ffffff",
+        "icon_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "arrow_icon_color": "#1c1c1c",
+        "arrow_icon_hover_color": "#1c1c1c",
+        "modal_bg_color": "#ffffff",
+        "modal_border_color": "#000000",
+        "close_bg_color": "#ffffff",
+        "close_border_color": "#000000",
+        "close_icon_color": "#ffffff",
+        "buttons_bg_color": "#ffffff",
+        "buttons_border_color": "#000000",
+        "buttons_icon_color": "#ffffff",
+        "modal_video_border_color": "#000000",
+        "modal_content_bg_color": "#ffffff",
+        "modal_content_border_color": "#000000",
+        "modal_heading_color": "#000000",
+        "modal_text_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "tabs_UYNyXK": {
+      "type": "tabs",
+      "blocks": {
+        "tab_tYFhCh": {
+          "type": "tab",
+          "name": "Specifications",
+          "settings": {
+            "title": "VelvetCare est-il sûr pour ma peau ?",
+            "content": "<p>VelvetCare est <strong>certifié CE</strong> et testé sur tous types de peaux. L'appareil utilise uniquement une abrasion douce contrôlée, sans aucun produit chimique.</p><p><strong>Utilisation sécurisée :</strong></p><ul><li>Aucune douleur quand utilisé correctement</li><li>Commencez par la vitesse faible</li><li>Ne restez pas longtemps au même endroit</li><li>N'appuyez pas excessivement</li></ul><p><strong>Contre-indications :</strong></p><ul><li>Peau blessée ou irritée</li><li>Diabète (avis médical requis)</li><li>Problèmes de circulation</li></ul><p>Une utilisation excessive peut causer des rougeurs. Suivez les instructions pour une utilisation optimale et sans risque.</p>",
+            "page": ""
+          }
+        },
+        "tab_RcxerQ": {
+          "type": "tab",
+          "name": "Mode d'emploi",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<p><strong>1. 🔌 Branchez</strong> l'appareil et allumez-le<br/><strong>2. 💿 Choisissez</strong> votre disque <br/><strong>3. 👣 Passez délicatement</strong> sur vos pieds secs, 2 minutes maximum par pied<br/><strong>4. ✨ Admirez</strong> vos pieds doux et lisses instantanément !</p><p><strong>💡 Conseil pro :</strong> Commencez par la vitesse la plus lente si vous avez la peau sensible. Utilisez 1-2 fois par semaine pour maintenir des pieds parfaits.</p>",
+            "page": ""
+          }
+        },
+        "tab_XCBbxB": {
+          "type": "tab",
+          "name": "Livraison gratuite",
+          "settings": {
+            "title": "Livraison gratuite",
+            "content": "<p>La livraison à domicile est gratuite. En fonction du volume de la commande, le délai de livraison estimé est de <strong>6 à 11 jours ouvrables</strong></p>",
+            "page": ""
+          }
+        },
+        "tab_XkVxMh": {
+          "type": "tab",
+          "name": "30 jours money back",
+          "settings": {
+            "title": "Garantie 30 jours",
+            "content": "<p>Vous disposez de 30 jours pour changer d’avis après réception de votre commande.</p>",
+            "page": ""
+          }
+        },
+        "tab_WJfzRi": {
+          "type": "tab",
+          "name": "Contact",
+          "settings": {
+            "title": "Contactez-nous 7j/7j",
+            "content": "<p>Notre équipe est là pour vous aider, 7 jours sur 7.<br/><br/>Vous pouvez nous contacter par e-mail.<br/><br/>N’hésitez pas à nous écrire, nous serons ravis de vous assister.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_tYFhCh",
+        "tab_RcxerQ",
+        "tab_XCBbxB",
+        "tab_XkVxMh",
+        "tab_WJfzRi"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "rich_text_krR8BP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wBh4dU": {
+          "type": "heading",
+          "settings": {
+            "text": "Elles l’ont adopté… et ne peuvent plus revenir en arrière.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wBh4dU"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fff5f0",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_kzXeKK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_B9yCVk": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Étape 1 - Préparez",
+            "heading_tag": "h4",
+            "content": "<p>Préparez le Velvetcare en collant le disque de votre choix, branchez l'appareil et choisissez le niveau d'intensité.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_B9yCVk"
+      ],
+      "custom_css": [],
+      "name": "Ingredients/mode emploi",
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Des pieds parfaits en seulement 3 étapes</h3>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_zTeKM8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cWHzdB": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi vous ne pourrez plus vous passer de VelvetCare ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_cWHzdB"
+      ],
+      "custom_css": [
+        ".section-full {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1755962910ad644161": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_RQbaAc": {
+      "type": "faq",
+      "blocks": {
+        "item_VJTCM8": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce que VelvetCare™ ?",
+            "content": "<p>Un outil électronique de pédicure (alliage d'aluminium, design rose) qui élimine<br/>sans douleur peaux mortes, callosités et talons secs. 600 tr/min, poignée<br/>ergonomique, branché sur secteur : pas de batterie à gérer.</p>"
+          }
+        },
+        "item_TBeWUn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça marche sur les callosités très épaisses ?",
+            "content": "<p>Oui ! VelvetCare élimine même les callosités les plus tenaces. Pour les cas extrêmes, 2-3 séances suffisent pour une transformation complète.</p>"
+          }
+        },
+        "item_HGbLka": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Is it suitable for all sleeping positions?",
+            "content": "<p>Les premiers effets sont généralement visibles <strong>entre 2 et 3 semaines</strong> : cuir chevelu apaisé, cheveux plus forts et apparition de baby hairs. Pour des résultats complets (densité, repousse visible), une utilisation régulière pendant <strong>2 à 3 mois</strong> est recommandée.</p><p></p>"
+          }
+        },
+        "item_Ee3gXV": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Combien de temps avant de voir des résultats ?",
+            "content": "<p>The high-density memory foam is carefully balanced: not too hard, not too soft. It adapts to your shape and sleeping position, offering just the right support where you need it most. And if it’s not for you, no worries…</p>"
+          }
+        },
+        "item_JxqYeC": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle différence avec les râpes classiques ?",
+            "content": "<p>VelvetCare polit sans agresser grâce à sa technologie micro-vibrations. Fini les micro-coupures et irritations des râpes manuelles.</p>"
+          }
+        },
+        "item_Aq4kCE": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que c'est vraiment économique ?",
+            "content": "<p>Une pédicure coûte 60€. VelvetCare se rembourse dès la première utilisation et vous économise 600€/an minimum.</p>"
+          }
+        },
+        "item_6FVRBJ": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que c'est douloureux?",
+            "content": "<p>Non. VelvetCare™ polit la peau, il ne coupe pas. Utilisez la vitesse basse pour démarrer si vous avez la peau sensible.</p>"
+          }
+        },
+        "item_UdVHMY": {
+          "type": "item",
+          "settings": {
+            "title": "Et si je n’aime pas le produit ?",
+            "content": "<p>Nous sommes convaincus que vous allez l’adorer, mais si pour une raison quelconque vous n’êtes pas 100 % satisfait(e) dans les 30 jours suivant la réception, il vous suffit de nous contacter</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_VJTCM8",
+        "item_TBeWUn",
+        "item_HGbLka",
+        "item_Ee3gXV",
+        "item_JxqYeC",
+        "item_Aq4kCE",
+        "item_6FVRBJ",
+        "item_UdVHMY"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "175484157079b90b20": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1754426774688f8537": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "contact_RUdcby": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service client est disponible 7 jours sur 7. Délai moyen de réponse : 24 à 48 heures.",
+        "title": "Une question ?",
+        "content": "<p>N’hésitez pas à nous écrire, nous sommes là pour vous aider.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#000000",
+        "button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_FhdizH",
+    "logo_list_c3ppmd",
+    "image_with_text_overlay_EtGYza",
+    "rich_text_ikwdf3",
+    "image_with_text_overlay_3mLjrK",
+    "rich_text_WRccK8",
+    "image_with_text_overlay_T4PQMt",
+    "multi_column_tzwVE8",
+    "custom_liquid_WVKqBW",
+    "rich_text_Khgqwn",
+    "featured_product_jWDqw9",
+    "video_story_p4DHUr",
+    "tabs_UYNyXK",
+    "rich_text_krR8BP",
+    "multi_column_kzXeKK",
+    "rich_text_zTeKM8",
+    "1755962910ad644161",
+    "faq_RQbaAc",
+    "175484157079b90b20",
+    "1754426774688f8537",
+    "contact_RUdcby"
+  ]
+}
