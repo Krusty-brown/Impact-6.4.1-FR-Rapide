@@ -35,8 +35,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Clients_et_banniere_60.png",
-        "mobile_image": "shopify://shop_images/Clients_et_banniere_60.png",
         "mobile_text_position": "place-self-start-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#252627",
@@ -47,43 +45,15 @@
     "logo_list_c3ppmd": {
       "type": "logo-list",
       "blocks": {
-        "logo_6iEgpG": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_zDtXWd": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_rTNQgK": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Elle.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_NaYWy4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_6iEgpG",
-        "logo_zDtXWd",
-        "logo_rTNQgK",
         "logo_NaYWy4"
       ],
       "custom_css": [
@@ -114,7 +84,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Benefices_Coussins_84.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -156,8 +125,6 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "sm",
-        "video": "shopify://files/videos/1707bdc3-0fd8-47a2-bd68-aefb78ef9ef0.mp4",
-        "mobile_video": "shopify://files/videos/1707bdc3-0fd8-47a2-bd68-aefb78ef9ef0.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -234,7 +201,6 @@
         "item_htEXrq": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6.png",
             "column_size": "3",
             "title": "Sophie R.",
             "heading_tag": "h4",
@@ -247,7 +213,6 @@
         "item_TjGrmh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
             "column_size": "3",
             "title": "Patricia L.",
             "heading_tag": "h4",
@@ -260,7 +225,6 @@
         "item_eXrf8F": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.png",
             "column_size": "3",
             "title": "Nathalie D.",
             "heading_tag": "h4",
@@ -273,7 +237,6 @@
         "item_V4zAnj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "column_size": "3",
             "title": "Valérie C.",
             "heading_tag": "h4",
