@@ -47,15 +47,43 @@
     "logo_list_c3ppmd": {
       "type": "logo-list",
       "blocks": {
+        "logo_6iEgpG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_zDtXWd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_rTNQgK": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Elle.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_NaYWy4": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
+        "logo_6iEgpG",
+        "logo_zDtXWd",
+        "logo_rTNQgK",
         "logo_NaYWy4"
       ],
       "custom_css": [
@@ -86,6 +114,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Benefices_Coussins_84.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -99,7 +128,7 @@
         "heading_kgNeXK": {
           "type": "heading",
           "settings": {
-            "text": "Une technologie innovante et indolore",
+            "text": "Une technique Coréenne innovante",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -117,6 +146,22 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_36Qke4": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/1707bdc3-0fd8-47a2-bd68-aefb78ef9ef0.mp4",
+        "mobile_video": "shopify://files/videos/1707bdc3-0fd8-47a2-bd68-aefb78ef9ef0.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_3mLjrK": {
@@ -174,6 +219,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Sans_titre_3000_x_1500_px_1_75c1ab83-aa46-4a2b-9f5e-69d563f3eea1.png",
+        "mobile_image": "shopify://shop_images/Sans_titre_3000_x_1500_px_1_75c1ab83-aa46-4a2b-9f5e-69d563f3eea1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -186,12 +233,51 @@
       "blocks": {
         "item_htEXrq": {
           "type": "item",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/6.png",
             "column_size": "3",
-            "title": "Sarah M.",
+            "title": "Sophie R.",
             "heading_tag": "h4",
-            "content": "<p>Wow... Cet appareil électrique anti-callosités fonctionne vraiment très bien ! Je ne m'attendais pas à des résultats aussi spectaculaires. La différence avant/après est saisissante, mes talons étaient complètement abîmés et maintenant ils sont parfaitement lisses !</p>",
+            "content": "<p>J'ai commencé à voir de vrais résultats après seulement quelques jours. La texture sous mes yeux est plus lisse, et je n'ai plus l'air aussi fatiguée. Les gens n'arrêtent pas de me demander ce que j'ai changé.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TjGrmh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "Patricia L.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Je ne m'attendais vraiment pas à des résultats si rapides. En quelques minutes, mes poches sous les yeux ont disparu. J'avais enfin un regard éveillé. Maintenant, je ne peux plus m'en passer.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eXrf8F": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "column_size": "3",
+            "title": "Nathalie D.",
+            "heading_tag": "h4",
+            "content": "<p>\"Mes poches sous les yeux étaient vraiment marquées, ce stick a tout changé. L'effet tenseur est instantané et aucune irritation, contrairement aux autres produits que j'ai testés.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_V4zAnj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "Valérie C.",
+            "heading_tag": "h4",
+            "content": "<p>\"Un vrai miracle ! Mes yeux gonflés du matin disparaissent en quelques secondes. Texture ultra-légère, parfait même sous le maquillage.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -199,7 +285,10 @@
         }
       },
       "block_order": [
-        "item_htEXrq"
+        "item_htEXrq",
+        "item_TjGrmh",
+        "item_eXrf8F",
+        "item_V4zAnj"
       ],
       "custom_css": [
         ".section-full {padding-top: 0px;}"
@@ -1156,6 +1245,7 @@
     "logo_list_c3ppmd",
     "image_with_text_overlay_EtGYza",
     "rich_text_ikwdf3",
+    "video_36Qke4",
     "image_with_text_overlay_3mLjrK",
     "rich_text_WRccK8",
     "image_with_text_overlay_T4PQMt",
